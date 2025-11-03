@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ben Griffiths</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ben Griffiths</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2025 21:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Mon, 03 Nov 2025 21:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;This is my first blog post! Welcome to my new site.&lt;/p&gt;
+&lt;h2 id=&#34;why-im-starting-this-blog&#34;&gt;Why I&amp;rsquo;m starting this blog&lt;/h2&gt;
+&lt;p&gt;I wanted a place to share my thoughts on security and technology.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-expect&#34;&gt;What to expect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Security insights&lt;/li&gt;
+&lt;li&gt;Technical tutorials&lt;/li&gt;
+&lt;li&gt;Personal reflections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more content!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

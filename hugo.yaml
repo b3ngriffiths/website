@@ -1,0 +1,102 @@
+baseURL: 'https://griffiths.me/'
+languageCode: 'en-us'
+title: 'Ben Griffiths'
+theme: 'PaperMod'
+
+# Updated pagination config
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  env: production # enables google analytics, opengraph, twitter-cards
+  title: Ben Griffiths
+  description: "A bit of me"
+  keywords: [Blog, Security]
+  author: Ben Griffiths
+  
+  # Theme behavior
+  defaultTheme: auto # options: light, dark, auto
+  disableThemeToggle: false
+  
+  # Content display
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  
+  # Home page info (optional - shows on homepage)
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: >-
+      Welcome to my space. I write about the things that interest me.
+  
+  # Social icons
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/benjamin-griffiths"
+  
+  # Cover image
+  cover:
+    linkFullImages: true
+  # Assets
+  assets:
+    disableHLJS: false # to disable highlight.js
+    disableFingerprinting: false
+
+# Menu
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+# Privacy - updated twitter to x
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  x:  # Changed from twitter
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+# Outputs
+outputs:
+  home:
+    - HTML
+    - RSS
