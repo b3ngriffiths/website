@@ -36,14 +36,6 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       
-      - name: ⚡ Cache Hugo resources
-        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
-        with:
-          path: resources
-          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('**/*.md') }}
-          restore-keys: |
-            ${{ runner.os }}-hugo-resources-
-      
       - name: ⚙️ Setup Pages
         id: pages
         uses: actions/configure-pages@1f0c5cde4bc74cd7e1254d0cb4de8d49e9068c7d # v4.0.0
