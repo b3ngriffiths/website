@@ -3,7 +3,6 @@ languageCode: 'en-us'
 title: 'Ben Griffiths'
 theme: 'PaperMod'
 
-# Updated pagination config
 pagination:
   pagerSize: 5
 
@@ -11,11 +10,18 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 minify:
   disableXML: true
   minifyOutput: true
+
 params:
-  env: production # enables google analytics, opengraph, twitter-cards
+  env: production
   title: Ben Griffiths
   description: "A bit of me"
   keywords: [Blog, Security]
@@ -27,11 +33,11 @@ params:
   
   # Content display
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -39,26 +45,21 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: true
+  showtoc: false # table of contents
   tocopen: false
   
-  # Home page info (optional - shows on homepage)
+  # Homepage
   homeInfoParams:
     Title: "Hi there 👋"
     Content: >-
       Welcome to my space. I write about the things that interest me.
-  
-  # Social icons
-  socialIcons:
-    - name: linkedin
-      url: "https://www.linkedin.com/in/benjamin-griffiths"
   
   # Cover image
   cover:
     linkFullImages: true
   # Assets
   assets:
-    disableHLJS: false # to disable highlight.js
+    disableHLJS: false
     disableFingerprinting: false
 
 # Menu
@@ -79,12 +80,12 @@ taxonomies:
   tag: tags
   series: series
 
-# Privacy - updated twitter to x
+# Privacy
 privacy:
   vimeo:
     disabled: false
     simple: true
-  x:  # Changed from twitter
+  x:
     disabled: false
     enableDNT: true
     simple: true
