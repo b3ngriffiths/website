@@ -5,6 +5,11 @@ draft: false
 description: "My 2024 in numbers"
 tags: ["year in review", "wrapped"]
 categories: ["Life"]
+cover:
+    image: "cover.jpg"
+    alt: "Digital data streams radiating from bright central light between urban buildings"
+    hiddenInSingle: false
+    hiddenInList: true
 ---
 
 I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-wrapped), so why not do it again for 2024.
