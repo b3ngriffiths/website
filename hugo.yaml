@@ -49,7 +49,6 @@ params:
   tocopen: false
   
   # Homepage
-  params:
   profileMode:
     enabled: true
     title: "Ben Griffiths"
