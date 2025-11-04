@@ -6,13 +6,34 @@
     <description>Recent content in Posts on Ben Griffiths</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Oct 2023 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2024 Wrapped</title>
+      <link>http://localhost:1313/posts/2024-wrapped/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-wrapped/</guid>
+      <description>My 2024 in numbers</description>
+    </item>
+    <item>
+      <title>2023 Wrapped</title>
+      <link>http://localhost:1313/posts/2023-wrapped/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-wrapped/</guid>
+      <description>My year in numbers</description>
+    </item>
+    <item>
+      <title>1 Year of Solar Panels: Uncovering the True Return on Investment</title>
+      <link>http://localhost:1313/posts/1-year-solar-panels-roi/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/1-year-solar-panels-roi/</guid>
+      <description>Calculating the Payback Period and Real Savings</description>
+    </item>
+    <item>
       <title>Slashing Energy Costs with Intelligent Octopus Tariffs (Real Data)</title>
-      <link>http://localhost:1313/posts/2023/energy-costs-with-octopus/</link>
+      <link>http://localhost:1313/posts/energy-costs-with-octopus/</link>
       <pubDate>Sat, 07 Oct 2023 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/energy-costs-with-octopus/</guid>
+      <guid>http://localhost:1313/posts/energy-costs-with-octopus/</guid>
       <description>How I paid less than £2 for electricity in the first month using Octopus Energy&amp;#39;s intelligent tariffs and solar generation</description>
     </item>
   </channel>

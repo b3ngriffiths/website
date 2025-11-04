@@ -49,11 +49,23 @@ params:
   tocopen: false
   
   # Homepage
-  homeInfoParams:
-    Title: "Hi there 👋"
-    Content: >-
-      Welcome to my space. I write about the things that interest me.
-  
+  params:
+  profileMode:
+    enabled: true
+    title: "Ben Griffiths"
+    subtitle: "Exploring sustainability, security, and everything between"
+    imageUrl: "/images/profile.jpeg" # optional
+    imageTitle: "Ben Griffiths profile headshot" # optional
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Posts
+        url: "/posts"
+
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/benjamin-griffiths/"
+
   # Cover image
   cover:
     linkFullImages: true
