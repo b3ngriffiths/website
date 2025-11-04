@@ -23,7 +23,7 @@ minify:
 params:
   env: production
   title: Ben Griffiths
-  description: "A bit of me"
+  description: "A personal blog of Ben Griffiths, exploring sustainability, security, and everything between."
   keywords: [Blog, Security]
   author: Ben Griffiths
   
