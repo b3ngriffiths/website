@@ -24,7 +24,7 @@ params:
   env: production
   title: Ben Griffiths
   description: "A personal blog of Ben Griffiths, exploring sustainability, security, and everything between."
-  keywords: [Blog, Security]
+  keywords: [Blog, Sustainability, Security, Renewable Energy]
   author: Ben Griffiths
   
   # Theme behavior
@@ -46,15 +46,15 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: false # table of contents
-  tocopen: false
+  tocopen: false # keeps it collapsed by default
   
   # Homepage
   profileMode:
     enabled: true
     title: "Ben Griffiths"
     subtitle: "Exploring sustainability, security, and everything between"
-    imageUrl: "/images/profile.jpeg" # optional
-    imageTitle: "Ben Griffiths profile headshot" # optional
+    imageUrl: "/images/profile.jpeg"
+    imageTitle: "Ben Griffiths profile headshot"
     imageWidth: 120
     imageHeight: 120
     buttons:
@@ -80,9 +80,9 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: categories
+      name: Topics
+      url: /categories/
       weight: 20
 
 # Taxonomies
