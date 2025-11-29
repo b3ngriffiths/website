@@ -24,7 +24,11 @@ Let's go back and review: what was the specific manifesto commitment?
 
 The wording is precise: Labour commits not to increase 'the basic, higher, or additional rates of Income Tax,' naming each rate explicitly. The word **threshold** is critically absent, as is any mention of the point at which income tax is applied.
 
-Labour's position is that freezing thresholds doesn't count as raising taxes, it's a matter of interpretation. **The maths thoroughly disagrees.** Run the numbers and there's nothing ambiguous about it: we'll all pay more, every single year.
+Labour's position is that freezing thresholds doesn't count as raising taxes, it's a matter of interpretation. **The maths thoroughly disagrees.**
+
+When your salary rises with inflation but the thresholds stay frozen, more of your income gets pushed into higher tax brackets. You’re not paying higher rates, but you are paying more tax. This is fiscal drag, and it’s how frozen thresholds become a stealth tax rise.
+
+Run the numbers and there's nothing ambiguous about it: we'll all pay more, every single year.
 
 ## The Contradiction
 Does Rachel Reeves really believe the commitment is being upheld? Who knows. But she's holding onto the technicality.
@@ -33,7 +37,9 @@ Her comments during the Autumn Budget 2024 tell a different story. She said:
 
 > I have come to the conclusion that extending the threshold freeze would hurt working people. It would take more money out of their payslips. I am keeping every single promise on tax that I made in our manifesto, so there will be no extension of the freeze in income tax and national insurance thresholds.
 
-A year later, she extended the freeze to 2031 and claimed to have kept "every single one" of Labour's manifesto commitments. That directly contradicts what she implied last year. What's changed? Nothing. The manifesto never mentioned thresholds in the first place, so she's dancing on a semantic loophole.
+A year later, she extended the freeze originally set to end in 2028 to 2031, adding three more years of fiscal drag, and claimed to have kept “every single one” of Labour’s manifesto commitments.
+
+That directly contradicts what she implied last year. What's changed? Nothing. The manifesto never mentioned thresholds in the first place, so she's dancing on a semantic loophole.
 
 On National Insurance, the position is even clearer. The IFS isn't buying it. Their response to the 2025 Budget was blunt: extending the freeze on National Insurance thresholds:
 
@@ -45,8 +51,6 @@ The income tax position is muddy. The manifesto technically only promised not to
 The income tax bands themselves haven't moved: the basic rate (20%) still starts at £12,571, the higher rate (40%) at £50,271, and the additional rate (45%) at £125,140.
 
 **But fiscal drag doesn't show up in the bands, it shows up in your payslip.**
-
-When your salary rises with inflation but the thresholds stay frozen, more of your income gets pushed into higher tax brackets. You're not paying higher *rates*, but you are paying more *tax*.
 
 The table below shows effective tax rates (income tax + NI as a % of total income) across different starting salaries, assuming a 3% annual increase:
 
@@ -66,7 +70,7 @@ The table below shows effective tax rates (income tax + NI as a % of total incom
 |        £150,000 | 40.6% | 40.8% | 40.9% | 41.1% | 41.3% | 41.5% | 41.6% |   +1.0pp |
 |        £200,000 | 42.2% | 42.3% | 42.5% | 42.6% | 42.7% | 42.8% | 43.0% |   +0.8pp |
 
-**The pattern is clear:** lower earners face the steepest proportional increases. A £20k worker sees their effective tax rate jump 3.3 percentage points; a £200k earner just 0.8pp. Worse still, it’s lower and middle income families who’ll be hit hardest by the frozen child benefit (tapered from £60k) and childcare (removed about £100k) thresholds as salary growth pushes them into those zones. Labour promised they wouldn’t hurt working people. The maths says they’re getting squeezed from both sides.
+**The pattern is clear:** lower earners face the steepest proportional increases. A £20k worker sees their effective tax rate jump 3.3 percentage points; a £200k earner just 0.8pp. Worse still, it’s lower and middle income families who’ll be hit hardest by the frozen child benefit (tapered from £60k) and childcare (removed above £100k) thresholds as salary growth pushes them into those zones. Labour promised they wouldn’t hurt working people. The maths says they’re getting squeezed from both sides.
 
 _Note: this table doesn't account for additional impact from child benefit and free childcare thresholds. [^3]_
 
