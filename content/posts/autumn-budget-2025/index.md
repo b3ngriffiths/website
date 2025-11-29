@@ -66,6 +66,8 @@ The table below shows effective tax rates (income tax + NI as a % of total incom
 |        £150,000 | 40.6% | 40.8% | 40.9% | 41.1% | 41.3% | 41.5% | 41.6% |   +1.0pp |
 |        £200,000 | 42.2% | 42.3% | 42.5% | 42.6% | 42.7% | 42.8% | 43.0% |   +0.8pp |
 
+**The pattern is clear:** lower earners face the steepest proportional increases. A £20k worker sees their effective tax rate jump 3.3 percentage points; a £200k earner just 0.8pp. Worse still, it’s lower and middle income families who’ll be hit hardest by the frozen child benefit (tapered from £60k) and childcare (removed about £100k) thresholds as salary growth pushes them into those zones. Labour promised they wouldn’t hurt working people. The maths says they’re getting squeezed from both sides.
+
 _Note: this table doesn't account for additional impact from child benefit and free childcare thresholds. [^3]_
 
 [^2]: £12,570 starter shows the largest proportional increase, they start at the personal allowance threshold, so even small salary growth makes them a taxpayer.
