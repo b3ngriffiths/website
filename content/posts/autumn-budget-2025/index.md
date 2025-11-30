@@ -48,9 +48,18 @@ On National Insurance, the position is even clearer. The IFS isn't buying it. Th
 The income tax position is muddy. The manifesto technically only promised not to raise "rates", and the rates haven't changed. **But fiscal drag doesn't care about semantics.** The effect is identical to increasing rates, even if the mechanism isn't.
 
 ## The Impact
-The income tax bands themselves haven't moved: the basic rate (20%) still starts at £12,571, the higher rate (40%) at £50,271, and the additional rate (45%) at £125,140.
+The income tax bands themselves haven't moved:
 
-**But fiscal drag doesn't show up in the bands, it shows up in your payslip.**
+| Band | Threshold | Rate |
+|:-----|:----------|:-----|
+| Personal Allowance | Up to £12,570 | 0% |
+| Basic rate | £12,571 to £50,270 | 20% |
+| Higher rate | £50,271 to £125,140 | 40% |
+| Additional rate | Over £125,140 | 45% |
+
+Labour promised not to change the **rates** (right column). They kept that promise. But they froze the **thresholds** (middle column), so as your salary grows, more income crosses those frozen lines.
+
+Another way to visualise this impact is seeing tax as a % of total income.
 
 The table below shows effective tax rates (income tax + NI as a % of total income) across different starting salaries, assuming a 3% annual increase:
 
