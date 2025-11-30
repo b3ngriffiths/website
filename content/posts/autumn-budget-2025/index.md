@@ -98,6 +98,6 @@ The blue line tells the story: additional government receipts climbing from £15
 
 So when Rachel Reeves says she's kept every manifesto promise on tax, she's technically correct. The rates haven't budged. But 5.1 million new taxpayers and 4.7 million workers dragged into higher bands will pay thousands more by 2031, simply because the thresholds stayed frozen.
 
-**I get it, tax rises were inevitable and had to come from somewhere.** But there's a difference between difficult decisions and semantic games. The manifesto promised to protect working people from tax increases. If that commitment couldn't be kept, own it. Don't hide behind word games about rates versus thresholds and claim promises were honoured.
+**I get it, tax rises were inevitable and had to come from somewhere.** But there's a difference between difficult decisions and semantic games. The manifesto promised to protect working people from tax increases, yet the freeze hits lower and middle earners hardest, with proportional increases significantly higher than those on higher incomes. If that commitment couldn't be kept, own it. Don't hide behind word games about rates versus thresholds and claim promises were honoured.
 
 The word "**threshold**" never appeared in the manifesto. That omission will raise £67 billion annually by 2030-31.
