@@ -31,17 +31,9 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 
 <iframe title="Energy Data (2025)" aria-label="Split Bars" id="datawrapper-chart-jS4ZH" src="https://datawrapper.dwcdn.net/jS4ZH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-> I do appreciate this energy usage is **very high** (about 4x UK average household). However, for additional context this is for home, heating, hot water, and EV charging and our annual costs are relatively low (for this level of consumption) at £1,021.52 - [read more about that here](/posts/ev-gateway-savings-snowball/).
+> I do appreciate this energy usage is **very high** (about 4x UK average household). However, for additional context this is for home, heating, hot water, and EV charging and our annual costs are relatively low (for this level of consumption) at just over £1,000 - [read more about that here](/posts/ev-gateway-savings-snowball/).
 
 ## Health / Fitness
-
-### Steps
-
-- **Total Steps**: 3,607,574 _(down 2.8%)_
-
-Strange, given I ran over double the distance compared to 2024, I walked significantly less.
-
-<iframe title="Steps (2025)" aria-label="Column Chart" id="datawrapper-chart-kNVPS" src="https://datawrapper.dwcdn.net/kNVPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Running
 
@@ -59,6 +51,12 @@ Strange, given I ran over double the distance compared to 2024, I walked signifi
 
 ### Training & Activity
 
+- **Total Steps**: 3,607,574 _(down 2.8%)_
+
+Strange, given I ran over double the distance compared to 2024, I walked significantly less.
+
+<iframe title="Steps (2025)" aria-label="Column Chart" id="datawrapper-chart-kNVPS" src="https://datawrapper.dwcdn.net/kNVPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
 - **Average Daily Exercise**: 46 minutes _(up 11 minutes)_
 
 <iframe title="Average Daily Exercise (2025)" aria-label="Bullet Bars" id="datawrapper-chart-kw0yW" src="https://datawrapper.dwcdn.net/kw0yW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
@@ -71,9 +69,9 @@ A significant difference, and one I didn't expect to see.  My best guess is incr
 
 ### Performance Metrics
 
-It has been satisfying to see the conscious effort to improve cardiovascular health can be seen in the data.
-
 - **Resting Heart Rate**: 49 bpm _(down from 51)_
+
+It has been satisfying to see the conscious effort to improve cardiovascular health can be seen in the data.
 
 <iframe title="Resting HR (2025)" aria-label="Small multiple line chart" id="datawrapper-chart-FDxtM" src="https://datawrapper.dwcdn.net/FDxtM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="519" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -83,9 +81,9 @@ It has been satisfying to see the conscious effort to improve cardiovascular hea
 
 ### Body Composition
 
-Comparing to 2024, my weight still fluctuates but averaged similarly over the year. A similar pattern of early year reduction, with lowest during summer (more active) and rising into winter and Christmas.  I'm pleased I ended 2025 without the typical peak from overindulgence.  A goal for 2026 is to drop below 90kg early, and then sustain for remainder of year.
-
 - **Annual Average**: 92.6 kg _(up 0.5% on last year)_
+
+Comparing to 2024, my weight still fluctuates but averaged similarly over the year. A similar pattern of early year reduction, with lowest during summer (more active) and rising into winter and Christmas.  I'm pleased I ended 2025 without the typical peak from overindulgence.  A goal for 2026 is to drop below 90kg early, and then sustain for remainder of year.
 
 <iframe title="Body Weight (2025)" aria-label="Line chart" id="datawrapper-chart-vqA66" src="https://datawrapper.dwcdn.net/vqA66/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -109,11 +107,11 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 ### Photos: 4,036 _(up 17%)_
 
-- By Ben: 1,144 _(up 28%)_
-- By Lucy: 2,892 _(up 9%)_
-- Of which selfies: 223
-- Videos: 603
-- Size: 39.77 GB _(up 13%)_
+- **By Ben:** 1,144 _(up 28%)_
+- **By Lucy:** 2,892 _(up 9%)_
+- **Of which selfies:** 223
+- **Videos:** 603
+- **Data:** 39.77 GB _(up 13%)_
 
 ## Mobile Data
 
@@ -128,7 +126,7 @@ Up from last year even considering I've missed January data.  Partly because I i
 <iframe title="Mobile Data (2025) -Monthly" aria-label="Bar Chart" id="datawrapper-chart-Z6o5P" src="https://datawrapper.dwcdn.net/Z6o5P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Usage Patterns
-Weekday vs Weekend (median usage):
+Median usage:
 - **Weekdays:** 42MB
 - **Weekends:** 237MB (5.6x higher)
 
@@ -168,12 +166,10 @@ September stands out as a dramatic outlier across nearly every metric:
 
 - Daily steps crashed to 7,468 (down 40% from August)
 - Running distance dropped to 70.62km (down 34%)
-- Exercise time fell to just 37 minutes (lowest of the year)
-- Time in daylight plummeted to 37 minutes (from 127 in August)
+- Daily exercise time fell to just 37 minutes (lowest of the year)
+- Average time in daylight plummeted to 37 minutes (from 127 in August)
 
-Everything collapsed simultaneously. The reality? September collapsed for three reasons: returning from a family holiday after overindulging, hitting a particularly hectic work period, and then the knock-on effects compounding across every metric.
-
-As routine got disrupted, it had a cascade effect across everything.
+Everything collapsed simultaneously. The reality? Returning from a family holiday with some overindulgence, followed by a hectic work period, made September a less active month. Once the routine broke, the knock-on effects compounded across every metric.
 
 ### Resting Heart Rate as a Performance Predictor
 
@@ -198,7 +194,7 @@ This lag effect explains why short-term changes don't show immediate results, an
 
 The most important insight isn't about avoiding the September crash, it's about what happened after.
 
-Despite lower autumn training volume (70-93km vs summer's 140km), I finished December with solid performances (26:01, 26:33 parkruns) and maintained cardiovascular fitness. The fitness base built during spring and summer didn't vanish, it proved resilient through disruption.
+Despite lower autumn training volume (vs summer), I finished December with solid performances and maintained cardiovascular fitness. The fitness base built during spring and summer didn't vanish, it proved resilient through disruption.
 
 This validated what I'd written about in my [consistency post](/posts/consistency/): building a strong foundation allows you to weather setbacks without starting from scratch. The real measure isn't perfection, it's the ability to return to baseline after disruption.
 
