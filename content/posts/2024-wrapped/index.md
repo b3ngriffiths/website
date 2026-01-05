@@ -1,6 +1,6 @@
 ---
 title: "2024 Wrapped"
-date: 2024-12-31
+date: 2025-01-10
 draft: false
 description: "My 2024 in numbers"
 tags: ["year in review", "wrapped"]
@@ -18,19 +18,19 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 ## Entertainment
 
-- **Music Listened**: 24,238 minutes (down 7.5%, average 1hr 6min per day)
-- **Netflix Watched**: 344 minutes (down 96%)
-- **Books Read**: 16[^1] (up 228%)
-- **Cinema Visits**: 1[^2]
+- **Music Listened**: 24,238 minutes _(down 7.5%, average 1hr 6min per day)_
+- **Netflix Watched**: 344 minutes _(down 96%)_
+- **Books Read**: 16 [^1] _(up 228%)_
+- **Cinema Visits**: 1 [^2]
 
 ## Energy
 
 ### Home
 
-- **Total usage**: 12,858 kWh (up 204%, thanks to removing Gas for Air Source Heat Pump)
+- **Total usage**: 12,858 kWh _(up 204%, thanks to removing Gas for Air Source Heat Pump)_
 - **Total generated**:
-  - Solar: 2608 kWh (down 6.2%)
-  - Wind: 2069.9 kWh[^3]
+  - Solar: 2608 kWh _(down 6.2%)_
+  - Wind: 2069.9 kWh [^3]
 - **Energy Self-Sufficient**: 36.4%
 
 <iframe title="Energy Data (2024)" aria-label="Split Bars" id="datawrapper-chart-O0XIj" src="https://datawrapper.dwcdn.net/O0XIj/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
@@ -45,7 +45,7 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 ### Steps
 
-- **Total Steps**: 3,709,322 (up 35%)
+- **Total Steps**: 3,709,322 _(up 35%)_
 
 <iframe title="Steps (2024)" aria-label="Column Chart" id="datawrapper-chart-12Pxz" src="https://datawrapper.dwcdn.net/12Pxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -55,14 +55,14 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 [Parkrun](https://www.parkrun.org.uk/parkrunner/7634631/all/)
 
-- **Completed**: 10 (up from 6 last year)
+- **Completed**: 10 _(up from 6 last year)_
 
 **In-year Personal Bests**
 
-- Parkrun (5km): 25:32 (47 second improvement, about 3%)
-- 10km: 55:37 (c.9min improvement over 2022)
+- Parkrun (5km): 25:32 _(47 second improvement, about 3%)_
+- 10km: 55:37 _(c.9min improvement over 2022)_
 
-- **Total Distance**: 562.2 km (down 17%)
+- **Total Distance**: 562.2 km _(down 17%)_
 
 <iframe title="Exercise Distance (2024)" aria-label="Stacked Bars" id="datawrapper-chart-nPwVK" src="https://datawrapper.dwcdn.net/nPwVK/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="346" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -90,19 +90,19 @@ Fluctuates a lot, but overall trend still increasing (bad)
 
 ### Top Items
 
-- 158 x Red Peppers (up 30%)
-- 125 x Semi-Skimmed Milk (4 pint)
-- 93 x Cucumbers (up 50%)
+- 158 x Red Peppers _(up 30%)_
+- 125 x Semi-Skimmed Milk
+- 93 x Cucumbers _(up 50%)_
 
 ### Clubcard
 
 - **Points**: 23,756
-- **Scans at local store**: 139 (up 27.5%)
+- **Scans at local store**: 139 _(up 27.5%)_
 - **Home deliveries**: 59
 
 ## Travel
 
-### Total Distance: 14,220 miles (up 44.5%)
+### Total Distance: 14,220 miles _(up 44.5%)_
 
 <iframe title="Distance Travelled (2024)" aria-label="Stacked Bars" id="datawrapper-chart-6tzm0" src="https://datawrapper.dwcdn.net/6tzm0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -117,13 +117,13 @@ Fluctuates a lot, but overall trend still increasing (bad)
 
 ## Photos
 
-### Photos: 3,463 (up 18%)
+### Photos: 3,463 _(up 18%)_
 
 - By Ben: 816
 - By Lucy: 2,647
 - Of which selfies: 301
-- Videos: 608 (up 60%)
-- Size: 35.06 GB (up 46%)
+- Videos: 608 _(up 60%)_
+- Size: 35.06 GB _(up 46%)_
 
 ## Cashback
 
@@ -153,25 +153,25 @@ Fluctuates a lot, but overall trend still increasing (bad)
 
 ---
 
-[^1]: Ordered by order they were read. ⭐ = recommended read.
-    - The Girl with the Dragon Tattoo - Stieg Larsson
-    - If It's Smart, It's Vulnerable - Mikko Hypponen
-    - The Culture Code - Daniel Coyle
-    - ⭐ The Myth of Normal - Gabor Mate
-    - How to Be the Grown-Up - Dr Martha Deiros Collado
-    - ⭐ Hyperfocus - Chris Bailey
-    - The Subtle Art of Not Giving a F*** - Mark Manson
-    - Operation Certain Death - Damien Lewis
-    - Elon Musk - Walter Isaacson
-    - Hitchhiker's Guide to the Galaxy - Douglas Adams
-    - Permission to Screw Up - Kristen Hadeed
-    - The 4-Hour Work Week - Tim Ferriss
-    - The Restaurant at the End of the Universe - Douglas Adams
-    - ⭐ The Anxious Generation - Jonathan Haidt
-    - Dirty Briefs - Dave Fendem
-    - The Trading Game, A Confession - Gary Stevenson
+[^1]: Read order. ⭐ = recommended.
+    1. The Girl with the Dragon Tattoo - Stieg Larsson
+    2. If It's Smart, It's Vulnerable - Mikko Hypponen
+    3. The Culture Code - Daniel Coyle
+    4. ⭐ The Myth of Normal - Gabor Mate
+    5. How to Be the Grown-Up - Dr Martha Deiros Collado
+    6. ⭐ Hyperfocus - Chris Bailey
+    7. The Subtle Art of Not Giving a F*** - Mark Manson
+    8. Operation Certain Death - Damien Lewis
+    9. Elon Musk - Walter Isaacson
+    10. Hitchhiker's Guide to the Galaxy - Douglas Adams
+    11. Permission to Screw Up - Kristen Hadeed
+    12. The 4-Hour Work Week - Tim Ferriss
+    13. The Restaurant at the End of the Universe - Douglas Adams
+    14. ⭐ The Anxious Generation - Jonathan Haidt
+    15. Dirty Briefs - Dave Fendem
+    16. The Trading Game, A Confession - Gary Stevenson
 
-[^2]: Films watched in 2024:
+[^2]: Watch order:
     - Despicable Me 4
 
 [^3]: New for 2024. As of June, Kirk Hill wind farm went live which we own through a cooperative.

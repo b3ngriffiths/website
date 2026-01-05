@@ -1,6 +1,6 @@
 ---
 title: "2023 Wrapped"
-date: 2023-12-31
+date: 2024-01-06
 draft: false
 description: "My 2023 in numbers"
 tags: ["year in review", "wrapped"]
@@ -12,6 +12,14 @@ It seems more and more companies are jumping on the Spotify Wrapped trend. Yeste
 I thought it might be interesting to explore this and other datasets to consolidate my own year in review.
 
 ## The year was 2023
+
+## Entertainment
+
+- **Music Listened**: 26,133 minutes (average 1hr 11min per day)
+- **Netflix Watched**: 8,186 minutes (average 2hr 27min per week)
+- **Books Read**: 7 [^1]
+- **Films Watched**: 4 [^2]
+- **Live Comedy**: 1 [^3]
 
 ## Energy
 
@@ -121,14 +129,6 @@ Lots of data available here, but only going to share insights I found worrying/s
 
 <iframe title="Seed Investments" aria-label="Donut Chart" id="datawrapper-chart-b4hQT" src="https://datawrapper.dwcdn.net/b4hQT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="493" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-## Entertainment
-
-- **Music Listened**: 26,133 minutes (average 1hr 11min per day)
-- **Netflix Watched**: 8,186 minutes (average 2hr 27min per week)
-- **Books Read**: 7[^1]
-- **Films Watched**: 4[^2]
-- **Live Comedy**: 1[^3]
-
 ## Work
 
 ### Slack
@@ -147,18 +147,18 @@ We don't like emails, la viva Slack.
 
 ---
 
-[^1]: Books read in 2023:
-    - Leaders Eat Last - Simon Sinek
-    - Build - Tony Fadell
-    - Before & Laughter - Jimmy Carr
-    - Concorde - Mike Bannister
-    - The Last Devil to Die - Richard Osman
-    - Atomic Habits - James Clear
-    - The Diary of a CEO - Steven Bartlett
+[^1]: Read order. ⭐ = recommended.
+    1. ⭐ Leaders Eat Last - Simon Sinek
+    2. Build - Tony Fadell
+    3. Before & Laughter - Jimmy Carr
+    4. Concorde - Mike Bannister
+    5. The Last Devil to Die - Richard Osman
+    6. Atomic Habits - James Clear
+    7. The Diary of a CEO - Steven Bartlett
 
-[^2]: Films watched in 2023:
+[^2]: Watch order. ⭐ = recommended.
     - The Flash
-    - Oppenheimer
+    - ⭐ Oppenheimer
     - The Equalizer 3
     - PAW Patrol: The Mighty Movie
 
