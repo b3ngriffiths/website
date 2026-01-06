@@ -87,6 +87,60 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 <iframe title="Body Weight (2025)" aria-label="Line chart" id="datawrapper-chart-vqA66" src="https://datawrapper.dwcdn.net/vqA66/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
+## Groceries
+
+### Top Items by Volume
+
+1. 🍓 341 x Strawberry punnets
+2. 🥛 164 x Milk (Semi-Skimmed)
+3. 🍅 145 x Tomatoes
+4. 🫑 127 x Peppers _(down 20%)_
+5. 🍌 122 x Bananas
+6. 🥬 101 x Lettuce
+7. 🥒 93 x Cucumbers _(exactly same as 2024)_
+8. 🥛 90 x Milk (Whole)
+9. 🫐 79 x Blueberry punnets
+10. 🥦 69 x Broccoli
+
+### Top Items by Weight
+
+1. 🥛 **Milk (Semi-Skimmed):** 332.84 litres
+2. 🥛 **Milk (Whole): 195.71** litres
+3. 🍞 **Bread:** 82.06 kg
+4. 🍓 **Strawberries:** 73.76 kg
+5. 🥔 **Potatoes:** 61.60 kg
+6. 🍅 **Tomatoes:** 45.12 kg
+7. 🥣 **Scottish Oats Porridge:** 45.00 kg
+8. 🐓 **Chicken Breast:** 39.68 kg
+9. 🍇 **Grapes:** 31.72 kg
+10. 🫐 **Blueberries:** 25.54 kg
+
+### Top Categories by Spend
+
+1. **Fruit:** 18.8%
+2. **Dairy & Eggs:** 12.4%
+3. **Meat & Fish:** 11.7%
+4. **Vegetables:** 11.0%
+5. **Bakery:** 6.4%
+
+### Top Items by Presence
+
+1. 🥛 **Milk:** 53.3%
+2. 🍓 **Strawberries:** 51%
+3. 🍌 **Bananas:** 38.1%
+4. 🍅 **Tomatoes:** 29.6%
+5. 🥒 **Cucumbers:** 28.8%
+
+### Shopping Frequency by Day
+
+- **Monday:** 55 shops _(21.4%)_
+- **Friday:** 53 shops _(20.6%)_
+- **Tuesday:** 33 shops _(12.8%)_
+- **Saturday:** 32 shops _(12.5%)_
+- **Wednesday:** 30 shops _(11.7%)_
+- **Thursday:** 29 shops _(11.3%)_
+- **Sunday:** 25 shops _(9.7%)_
+
 ## Travel
 
 ### Total Distance: 15,258 miles _(up 7.3%)_
@@ -95,13 +149,13 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 ### Family Outings
 
-- Swimming: 14
-- Thorp Perrow: 9
-- Soft Play: 5
-- Farm: 4
-- Ferry crossings: 2
-- Stockeld Park: 1
-- Wildlife Park: 1
+- **Swimming:** 14
+- **Thorp Perrow:** 9
+- **Soft Play:** 5
+- **Farm:** 4
+- **Ferry crossings:** 2
+- **Stockeld Park:** 1
+- **Wildlife Park:** 1
 
 ## Photos
 
@@ -125,8 +179,8 @@ Up from last year even considering I've missed January data.  Partly because I i
 #### By Month
 <iframe title="Mobile Data (2025) -Monthly" aria-label="Bar Chart" id="datawrapper-chart-Z6o5P" src="https://datawrapper.dwcdn.net/Z6o5P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-### Usage Patterns
-Median usage:
+### Median Usage Patterns
+
 - **Weekdays:** 42MB
 - **Weekends:** 237MB (5.6x higher)
 
