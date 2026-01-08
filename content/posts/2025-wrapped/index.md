@@ -91,45 +91,50 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 ### Top Items by Volume
 
-1. 🍓 341 x Strawberry punnets
-2. 🥛 164 x Milk (Semi-Skimmed)
-3. 🍅 145 x Tomatoes
-4. 🫑 127 x Peppers _(down 20%)_
-5. 🍌 122 x Bananas
-6. 🥬 101 x Lettuce
-7. 🥒 93 x Cucumbers _(exactly same as 2024)_
-8. 🥛 90 x Milk (Whole)
-9. 🫐 79 x Blueberry punnets
-10. 🥦 69 x Broccoli
+1. 🧼 600 x Dishwasher Tablets
+2. 🌯 312 x Tortilla Wraps
+3. 🥛 299 x Milk
+4. 🧻 192 x Baby Wipes (packs)
+5. 🥞 168 x Crumpets
+6. 🥚 156 x Eggs
+7. 🍅 145 x Tomatoes
+8. 🫑 127 x Peppers
+9. 🍌 122 x Bananas
+10. 🍓 106 x Strawberries punnets
 
 ### Top Items by Weight
 
-1. 🥛 **Milk (Semi-Skimmed):** 332.84 litres
-2. 🥛 **Milk (Whole): 195.71** litres
-3. 🍞 **Bread:** 82.06 kg
-4. 🍓 **Strawberries:** 73.76 kg
-5. 🥔 **Potatoes:** 61.60 kg
-6. 🍅 **Tomatoes:** 45.12 kg
-7. 🥣 **Scottish Oats Porridge:** 45.00 kg
-8. 🐓 **Chicken Breast:** 39.68 kg
-9. 🍇 **Grapes:** 31.72 kg
-10. 🫐 **Blueberries:** 25.54 kg
+1. 🥛 **Milk:** 534.88 litres
+2. 🍞 **Bread:** 82.06 kg
+3. 🥔 **Potatoes:** 61.60 kg
+4. 🥣 **Scottish Oats Porridge:** 51.40 kg
+5. 🍅 **Tomatoes:** 45.12 kg
+6. 🐓 **Chicken Breast:** 39.68 kg
+7. 🍓 **Strawberries:** 37.20 kg
+8. 🍇 **Grapes:** 30.22 kg
+9. 🫐 **Blueberries:** 25.43 kg
+10. 🥦 **Broccoli:** 24.64 kg
 
 ### Top Categories by Spend
 
-1. **Fruit:** 18.8%
-2. **Dairy & Eggs:** 12.4%
-3. **Meat & Fish:** 11.7%
-4. **Vegetables:** 11.0%
-5. **Bakery:** 6.4%
+1. 🍊 **Fruit:** 15.1%
+2. 🥛 **Dairy & Eggs:** 13.2%
+3. 🥩 **Meat & Fish:** 12.4%
+4. 🥕 **Vegetables:** 10.3%
+5. 🥖 **Bakery:** 6.4%
 
 ### Top Items by Presence
 
-1. 🥛 **Milk:** 53.3%
-2. 🍓 **Strawberries:** 51%
-3. 🍌 **Bananas:** 38.1%
-4. 🍅 **Tomatoes:** 29.6%
+1. 🥛 **Milk:** 52.5%
+2. 🍌 **Bananas:** 38.1%
+3. 🍓 **Strawberries:** 31.9%
+4. 🍅 **Tomatoe:s** 29.6%
 5. 🥒 **Cucumbers:** 28.8%
+6. 🫐 **Blueberries:** 26.8%
+7. 🥬 **Lettuce:** 24.1%
+8. 🍇 **Grapes:** 23.3%
+9. 🥦 **Broccoli:** 21.0%
+10. 🫑 **Peppers:** 19.5%
 
 ### Shopping Frequency by Day
 
