@@ -47,11 +47,11 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 | 10km | 55:37 | 52:52 | _4.9% quicker_ |
 | Total Distance | 562.2 km | 1,213.8 km | _115.9% increase_ |
 
+### Training & Activity
+
 - **Exercise Distance**: 1,310.72 km _(up 233%)_
 
 <iframe title="Exercise Distance (2025)" aria-label="Stacked Bars" id="datawrapper-chart-5r87W" src="https://datawrapper.dwcdn.net/5r87W/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-
-### Training & Activity
 
 - **Total Steps**: 3,607,574 _(down 2.8%)_
 
