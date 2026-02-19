@@ -4,7 +4,7 @@ title: 'Ben Griffiths'
 theme: 'PaperMod'
 
 pagination:
-  pagerSize: 5
+  pagerSize: 15
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -23,8 +23,8 @@ minify:
 params:
   env: production
   title: Ben Griffiths
-  description: "A personal blog of Ben Griffiths, exploring sustainability, security, and everything between."
-  keywords: [Blog, Sustainability, Security, Renewable Energy]
+  description: "Security leadership thinking that doesn't flinch from operational reality."
+  keywords: [Security, Cybersecurity, Security Operations, SOC, Security Leadership, Sustainability]
   author: Ben Griffiths
   
   # Theme behavior
@@ -52,7 +52,7 @@ params:
   profileMode:
     enabled: true
     title: "Ben Griffiths"
-    subtitle: "Exploring sustainability, security, and everything between"
+    subtitle: "Security without the comfort blanket."
     imageUrl: "/images/profile.jpeg"
     imageTitle: "Ben Griffiths profile headshot"
     imageWidth: 120
@@ -64,6 +64,8 @@ params:
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/benjamin-griffiths/"
+    - name: "rss"
+      url: "/index.xml"
 
   # Cover image
   cover:
