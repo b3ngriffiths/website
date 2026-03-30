@@ -5,6 +5,11 @@ draft: false
 description: "MTTR, alert volume, false positive rate. The SOC metrics everyone reports, that tell executives nothing about the organisation's cyber resilience."
 tags: ["security operations", "SOC", "cyber resilience", "metrics"]
 categories: ["Security"]
+cover:
+    image: "cover.jpg"
+    alt: "Close-up of an aircraft cockpit instrument panel showing multiple gauges and dials, all displaying readings but none showing the destination"
+    hiddenInSingle: false
+    hiddenInList: true
 ---
 
 Keeping the status quo was a mistake.
