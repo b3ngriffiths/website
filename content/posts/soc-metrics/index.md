@@ -135,3 +135,6 @@ The metrics the industry has settled on measure activity, not effectiveness. The
 If your board slide shows green on MTTR but you've never reviewed whether those investigations were actually complete, you're not reporting on cyber resilience. You're reporting on speed, and hoping nobody notices the difference.
 
 The metrics your SOC reports should answer one question: **is the organisation more resilient to cyber threats this month than last?** If they can't answer that, they aren't measuring security. They're just counting.
+
+---
+_Cover photo by [Kent Pilcher](https://unsplash.com/photos/black-instrument-cluster-panel-jW8hkB_Qmj8) on [Unsplash](https://unsplash.com)._

@@ -175,3 +175,6 @@ Fluctuates a lot, but overall trend still increasing (bad)
     - Despicable Me 4
 
 [^3]: New for 2024. As of June, Kirk Hill wind farm went live which we own through a cooperative.
+
+---
+_Cover photo by [Joshua Sortino](https://unsplash.com/photos/worms-eye-view-photography-of-ceiling-LqKhnDzSF-8) on [Unsplash](https://unsplash.com)._

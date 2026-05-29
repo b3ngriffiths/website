@@ -94,3 +94,7 @@ The military figured this out. Special forces didn't become effective through be
 Your security team can operate the same way. **But not while the runbook is doing the thinking for them.**
 
 [^1]: Ex-military readers will know the UK already teaches Mission Command - situation, mission, intent... My point is that in reality, the surrounding culture defeats it in day-to-day practice.
+
+---
+
+_Cover photo by [Rhys Kentish](https://unsplash.com/photos/silhouette-of-birds-flying-over-the-sea-during-sunset-ExhIp8DuHD8) on [Unsplash](https://unsplash.com)._

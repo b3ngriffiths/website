@@ -293,3 +293,6 @@ This validated what I'd written about in my [consistency post](/posts/consistenc
     5. The Naked Gun
     6. The Thursday Murder Club
     7. The Roses
+
+    ---
+_Cover photo by [Christopher Burns](https://unsplash.com/photos/white-and-black-digital-wallpaper-Kj2SaNHG-hg) on [Unsplash](https://unsplash.com)._
