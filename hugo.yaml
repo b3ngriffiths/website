@@ -23,7 +23,7 @@ minify:
 params:
   env: production
   title: Ben Griffiths
-  description: "Security leadership thinking that doesn't flinch from operational reality."
+  description: "Contrarian security thinking and obsessively tracked data on energy, fitness, and life."
   keywords: [Security, Cybersecurity, Security Operations, SOC, Security Leadership, Sustainability]
   author: Ben Griffiths
   
