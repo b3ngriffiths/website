@@ -3,10 +3,11 @@ title: "You're Not Paid To Think"
 date: 2026-05-28
 draft: false
 description: "Prescriptive runbooks feel like maturity but they're capping your security team. What special forces understand about empowerment, and why your SOC should too."
-tags: ["security operations", "SOC", "leadership", "cyber resilience"]
+tags: ["security operations", "leadership", "cyber resilience"]
 categories: ["Security"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "A starling murmuration sweeping over a seaside pier at sunset, thousands of birds moving as one against a warm sky over the sea"
     hiddenInSingle: false
     hiddenInList: true

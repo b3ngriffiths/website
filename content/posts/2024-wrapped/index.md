@@ -3,10 +3,11 @@ title: "2024 Wrapped"
 date: 2025-01-10
 draft: false
 description: "My 2024 in numbers"
-tags: ["year in review", "wrapped"]
+tags: ["year in review"]
 categories: ["Life"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "Digital data streams radiating from bright central light between urban buildings"
     hiddenInSingle: false
     hiddenInList: true
@@ -33,13 +34,13 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
   - Wind: 2069.9 kWh [^3]
 - **Energy Self-Sufficient**: 36.4%
 
-<iframe title="Energy Data (2024)" aria-label="Split Bars" id="datawrapper-chart-O0XIj" src="https://datawrapper.dwcdn.net/O0XIj/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Energy Data (2024)" aria-label="Split Bars" id="datawrapper-chart-O0XIj" src="https://datawrapper.dwcdn.net/O0XIj/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Kitchen Appliances
 
 - **Total Usage**: 1856.72 kWh
 
-<iframe title="Kitchen Appliances (2024)" aria-label="Stacked Bars" id="datawrapper-chart-na7Tb" src="https://datawrapper.dwcdn.net/na7Tb/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="363" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Kitchen Appliances (2024)" aria-label="Stacked Bars" id="datawrapper-chart-na7Tb" src="https://datawrapper.dwcdn.net/na7Tb/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="363" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## Health / Fitness
 
@@ -47,13 +48,13 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 - **Total Steps**: 3,709,322 _(up 35%)_
 
-<iframe title="Steps (2024)" aria-label="Column Chart" id="datawrapper-chart-12Pxz" src="https://datawrapper.dwcdn.net/12Pxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Steps (2024)" aria-label="Column Chart" id="datawrapper-chart-12Pxz" src="https://datawrapper.dwcdn.net/12Pxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Exercise
 
 #### Running
 
-[Parkrun](https://www.parkrun.org.uk/parkrunner/7634631/all/)
+**Parkrun**
 
 - **Completed**: 10 _(up from 6 last year)_
 
@@ -64,27 +65,27 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 - **Total Distance**: 562.2 km _(down 17%)_
 
-<iframe title="Exercise Distance (2024)" aria-label="Stacked Bars" id="datawrapper-chart-nPwVK" src="https://datawrapper.dwcdn.net/nPwVK/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="346" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Exercise Distance (2024)" aria-label="Stacked Bars" id="datawrapper-chart-nPwVK" src="https://datawrapper.dwcdn.net/nPwVK/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="346" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Average Daily Exercise**: 35 minutes
 
-<iframe title="Average Daily Exercise (2024)" aria-label="Column Chart" id="datawrapper-chart-Z9OAw" src="https://datawrapper.dwcdn.net/Z9OAw/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="417" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Average Daily Exercise (2024)" aria-label="Column Chart" id="datawrapper-chart-Z9OAw" src="https://datawrapper.dwcdn.net/Z9OAw/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="417" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Average Daily Time in Daylight**: 154 minutes
 
-<iframe title="Average Time in Daylight (2024)" aria-label="Area Chart" id="datawrapper-chart-Bimr2" src="https://datawrapper.dwcdn.net/Bimr2/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Average Time in Daylight (2024)" aria-label="Area Chart" id="datawrapper-chart-Bimr2" src="https://datawrapper.dwcdn.net/Bimr2/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Average Resting Heart Rate and VO2 Max
 
 As VO2 max went up, resting heart rate went down.
 
-<iframe title="Resting HR and VO2 Max (2024)" aria-label="Line chart" id="datawrapper-chart-H6WC0" src="https://datawrapper.dwcdn.net/H6WC0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="509" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Resting HR and VO2 Max (2024)" aria-label="Line chart" id="datawrapper-chart-H6WC0" src="https://datawrapper.dwcdn.net/H6WC0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="509" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Body Weight
 
 Fluctuates a lot, but overall trend still increasing (bad)
 
-<iframe title="Body Weight (2024)" aria-label="Line chart" id="datawrapper-chart-Do5vE" src="https://datawrapper.dwcdn.net/Do5vE/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="418" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Body Weight (2024)" aria-label="Line chart" id="datawrapper-chart-Do5vE" src="https://datawrapper.dwcdn.net/Do5vE/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="418" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## Groceries
 
@@ -104,7 +105,7 @@ Fluctuates a lot, but overall trend still increasing (bad)
 
 ### Total Distance: 14,220 miles _(up 44.5%)_
 
-<iframe title="Distance Travelled (2024)" aria-label="Stacked Bars" id="datawrapper-chart-6tzm0" src="https://datawrapper.dwcdn.net/6tzm0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Distance Travelled (2024)" aria-label="Stacked Bars" id="datawrapper-chart-6tzm0" src="https://datawrapper.dwcdn.net/6tzm0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Outings
 
@@ -127,14 +128,14 @@ Fluctuates a lot, but overall trend still increasing (bad)
 
 ## Cashback
 
-- [TopCashback](https://www.topcashback.co.uk/ref/bengriffiths): £104.05
-- [American Express](https://americanexpress.com/en-gb/referral/platinum-cashback?ref=bENJAG2vfK&CPID=100503717): £349.75 (up 24%)
+- <a href="https://www.topcashback.co.uk/ref/bengriffiths" rel="sponsored noopener noreferrer">TopCashback</a>: £104.05
+- <a href="https://americanexpress.com/en-gb/referral/platinum-cashback?ref=bENJAG2vfK&CPID=100503717" rel="sponsored noopener noreferrer">American Express</a>: £349.75 (up 24%)
 
 ## Mobile Data
 
 - **Total**: 71.03 GB
 
-<iframe title="Mobile Data (2024)" aria-label="Bar Chart" id="datawrapper-chart-9ljns" src="https://datawrapper.dwcdn.net/9ljns/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="275" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Mobile Data (2024)" aria-label="Bar Chart" id="datawrapper-chart-9ljns" src="https://datawrapper.dwcdn.net/9ljns/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="275" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## Work
 
@@ -143,13 +144,13 @@ Fluctuates a lot, but overall trend still increasing (bad)
 - **Messages**: 20,724
 - **Reactions**: 6,998
 
-<iframe title="Slack (2024)" aria-label="Split Bars" id="datawrapper-chart-izyXn" src="https://datawrapper.dwcdn.net/izyXn/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="336" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Slack (2024)" aria-label="Split Bars" id="datawrapper-chart-izyXn" src="https://datawrapper.dwcdn.net/izyXn/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="336" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### GitHub
 
 - **Contributions**: 1,489
 
-![GitHub](2024-github.png#center)
+![GitHub contribution graph for 2024, 1,489 contributions](2024-github.png#center)
 
 ---
 

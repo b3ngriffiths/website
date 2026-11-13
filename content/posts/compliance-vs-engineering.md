@@ -3,7 +3,7 @@ title: "Collectively Blind"
 date: 2026-02-19
 draft: false
 description: "Why security compliance and engineering teams keep disagreeing, and why that disagreement, handled right, might be the most valuable thing in your security function."
-tags: ["security", "compliance", "security engineering", "governance", "cognitive diversity"]
+tags: ["governance"]
 categories: ["Security"]
 ---
 
@@ -102,8 +102,6 @@ Because if compliance and engineering see the same threats the same way, you don
 I've worked both sides. I've been the person writing the policy and the person discovering why it doesn't survive contact with reality. Neither experience alone gave me the full picture. Both together got me closer. I'm still hesitant to claim I can see it all.
 
 If you read this and your immediate reaction was "this doesn't apply to my team", you might want to sit with that for a moment.
-
-*Views expressed are my own.*
 
 [^1]: Nisbett, R. E. & Masuda, T. (2001). Culture and the physical environment: Holistic versus analytic perceptual affordances. *Psychological Science*, 12(3), 205-210.
 [^2]: Phillips, K. W., Liljenquist, K. A. & Neale, M. A. (2009). Is the pain worth the gain? The advantages and liabilities of agreeing with socially distinct newcomers. *Personality and Social Psychology Bulletin*, 35(3), 336-350.

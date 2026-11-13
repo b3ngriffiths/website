@@ -1,6 +1,6 @@
 baseURL: 'https://griffiths.me/'
-locale: 'en-us'
-title: 'Ben Griffiths'
+locale: 'en-GB'
+title: 'Ben Griffiths · Security'
 theme: 'PaperMod'
 
 pagination:
@@ -26,7 +26,16 @@ params:
   description: "Contrarian security thinking and obsessively tracked data on energy, fitness, and life."
   keywords: [Security, Cybersecurity, Security Operations, SOC, Security Leadership, Sustainability]
   author: Ben Griffiths
-  
+
+  label:
+    text: "Ben Griffiths"
+
+  schema:
+    publisherType: Person
+    image: /images/profile.jpeg
+    sameAs:
+      - https://www.linkedin.com/in/benjamin-griffiths/
+
   # Theme behavior
   defaultTheme: auto # options: light, dark, auto
   disableThemeToggle: false
@@ -78,6 +87,7 @@ params:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon.svg"
 
 # Menu
 menu:
@@ -90,12 +100,15 @@ menu:
       name: Topics
       url: /categories/
       weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
 
 # Taxonomies
 taxonomies:
   category: categories
   tag: tags
-  series: series
 
 # Privacy
 privacy:

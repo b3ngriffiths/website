@@ -3,7 +3,7 @@ title: "The EV Gateway: Savings That Snowball"
 date: 2025-12-07
 draft: false
 description: "How an EV purchase triggered a complete home energy transformation. EV to solar to battery to heat pump. 7.5 year payback, £1,021 annual costs for everything."
-tags: ["EV", "Solar", "Home Battery", "ASHP"]
+tags: ["energy"]
 categories: ["Energy"]
 ---
 
@@ -24,7 +24,7 @@ Looking at the last year, powering the whole home, heating, hot water, and the 1
 
 *The standing charge alone is £223, something I can't control.*
 
-<iframe title="2025 Annual Energy Cost Distribution" aria-label="Grouped column chart" id="datawrapper-chart-tBjzX" src="https://datawrapper.dwcdn.net/tBjzX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="2025 Annual Energy Cost Distribution" aria-label="Grouped column chart" id="datawrapper-chart-tBjzX" src="https://datawrapper.dwcdn.net/tBjzX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 The EV forced me to understand electricity tariffs. Solar made me track generation vs. consumption. The battery taught me to shift usage to cheap overnight rates. Each upgrade didn't just save money, it gave me the knowledge to make the next decision confidently.
 
@@ -45,7 +45,7 @@ Every home is different, there's a bunch of variables that would improve or redu
 | Solar        | £4,340   | £510          | 8.5 years      |
 | Battery      | £9,410   | £1,050        | 9 years        |
 | ASHP         | £2,500   | £600          | 4 years        |
-| **Combined** | **£16,150** | **£2,160** | **7.5 years**  |
+| **Combined** | **£16,250** | **£2,160** | **7.5 years**  |
 
 *I haven't included the EV in the payback calculation. Despite higher monthly payments, it had no payback period as the £1,800/year savings in fuel plus lower maintenance costs **immediately** outweighed the additional cost.*
 

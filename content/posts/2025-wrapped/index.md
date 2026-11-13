@@ -3,10 +3,11 @@ title: "2025 Wrapped"
 date: 2026-01-05
 draft: false
 description: "My 2025 in numbers"
-tags: ["year in review", "wrapped"]
+tags: ["year in review"]
 categories: ["Life"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "Abstract photograph of vertical light streaks in shades of blue and white, creating a dynamic pattern of glowing lines descending against a dark background."
     hiddenInSingle: false
     hiddenInList: true
@@ -29,7 +30,7 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 - **Total Solar generated**: 3162.7 kWh _(up 21%)_
 - **Energy Self-Sufficient**: 20%
 
-<iframe title="Energy Data (2025)" aria-label="Split Bars" id="datawrapper-chart-jS4ZH" src="https://datawrapper.dwcdn.net/jS4ZH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Energy Data (2025)" aria-label="Split Bars" id="datawrapper-chart-jS4ZH" src="https://datawrapper.dwcdn.net/jS4ZH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 > I do appreciate this energy usage is **very high** (about 4x UK average household). However, for additional context this is for home, heating, hot water, and EV charging and our annual costs are relatively low (for this level of consumption) at just over £1,000 - [read more about that here](/posts/ev-gateway-savings-snowball/).
 
@@ -37,37 +38,37 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 
 ### Running
 
-- **[Parkrun](https://www.parkrun.org.uk/parkrunner/7634631/all/) Completed**: 8 _(down 2)_
+- **Parkrun Completed**: 8 _(down 2)_
 
 **Annual Personal Bests**
 
 | Distance | 2024 | 2025 | Improvement |
 |----------|--------|--------|-------------|
 | 5km (parkrun) | 25:32 | 24:24 | _4.4% faster_ |
-| 10km | 55:37 | 52:52 | _4.9% quicker_ |
+| 10km | 55:37 | 52:26 | _5.7% quicker_ |
 | Total Distance | 562.2 km | 1,213.8 km | _115.9% increase_ |
 
 ### Training & Activity
 
 - **Exercise Distance**: 1,310.72 km _(up 233%)_
 
-<iframe title="Exercise Distance (2025)" aria-label="Stacked Bars" id="datawrapper-chart-5r87W" src="https://datawrapper.dwcdn.net/5r87W/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Exercise Distance (2025)" aria-label="Stacked Bars" id="datawrapper-chart-5r87W" src="https://datawrapper.dwcdn.net/5r87W/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Total Steps**: 3,607,574 _(down 2.8%)_
 
 Strange, given I ran over double the distance compared to 2024, I walked significantly less.
 
-<iframe title="Steps (2025)" aria-label="Column Chart" id="datawrapper-chart-kNVPS" src="https://datawrapper.dwcdn.net/kNVPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Steps (2025)" aria-label="Column Chart" id="datawrapper-chart-kNVPS" src="https://datawrapper.dwcdn.net/kNVPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Average Daily Exercise**: 46 minutes _(up 11 minutes)_
 
-<iframe title="Average Daily Exercise (2025)" aria-label="Bullet Bars" id="datawrapper-chart-kw0yW" src="https://datawrapper.dwcdn.net/kw0yW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Average Daily Exercise (2025)" aria-label="Bullet Bars" id="datawrapper-chart-kw0yW" src="https://datawrapper.dwcdn.net/kw0yW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Average Daily Time in Daylight**: 81 minutes _(down 47%)_
 
 A significant difference, and one I didn't expect to see.  My best guess is increasing my running distance means I walked less casually outdoors, reducing my time outside.
 
-<iframe title="Average Time in Daylight (2025)" aria-label="Area Chart" id="datawrapper-chart-jIxR1" src="https://datawrapper.dwcdn.net/jIxR1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="287" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Average Time in Daylight (2025)" aria-label="Area Chart" id="datawrapper-chart-jIxR1" src="https://datawrapper.dwcdn.net/jIxR1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="287" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Performance Metrics
 
@@ -75,11 +76,11 @@ A significant difference, and one I didn't expect to see.  My best guess is incr
 
 It has been satisfying to see the conscious effort to improve cardiovascular health can be seen in the data.
 
-<iframe title="Resting HR (2025)" aria-label="Small multiple line chart" id="datawrapper-chart-FDxtM" src="https://datawrapper.dwcdn.net/FDxtM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="519" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Resting HR (2025)" aria-label="Small multiple line chart" id="datawrapper-chart-FDxtM" src="https://datawrapper.dwcdn.net/FDxtM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="519" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 - **Average VO2 Max**: 42.9 _(up 8% from 39.8)_
 
-<iframe title="VO2 Max (2025)" aria-label="Line chart" id="datawrapper-chart-I928X" src="https://datawrapper.dwcdn.net/I928X/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="488" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="VO2 Max (2025)" aria-label="Line chart" id="datawrapper-chart-I928X" src="https://datawrapper.dwcdn.net/I928X/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="488" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Body Composition
 
@@ -87,7 +88,7 @@ It has been satisfying to see the conscious effort to improve cardiovascular hea
 
 Comparing to 2024, my weight still fluctuates but averaged similarly over the year. A similar pattern of early year reduction, with lowest during summer (more active) and rising into winter and Christmas.  I'm pleased I ended 2025 without the typical peak from overindulgence.  A goal for 2026 is to drop below 90kg early, and then sustain for remainder of year.
 
-<iframe title="Body Weight (2025)" aria-label="Line chart" id="datawrapper-chart-vqA66" src="https://datawrapper.dwcdn.net/vqA66/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Body Weight (2025)" aria-label="Line chart" id="datawrapper-chart-vqA66" src="https://datawrapper.dwcdn.net/vqA66/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## Groceries
 
@@ -125,19 +126,6 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 4. 🥕 **Vegetables:** 10.3%
 5. 🥖 **Bakery:** 6.4%
 
-### Top Items by Presence
-
-1. 🥛 **Milk:** 52.5%
-2. 🍌 **Bananas:** 38.1%
-3. 🍓 **Strawberries:** 31.9%
-4. 🍅 **Tomatoe:s** 29.6%
-5. 🥒 **Cucumbers:** 28.8%
-6. 🫐 **Blueberries:** 26.8%
-7. 🥬 **Lettuce:** 24.1%
-8. 🍇 **Grapes:** 23.3%
-9. 🥦 **Broccoli:** 21.0%
-10. 🫑 **Peppers:** 19.5%
-
 ### Shopping Frequency by Day
 
 - **Monday:** 55 shops _(21.4%)_
@@ -152,7 +140,7 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 ### Total Distance: 15,258 miles _(up 7.3%)_
 
-<iframe title="Distance Travelled (2025)" aria-label="Stacked Bars" id="datawrapper-chart-tWqkP" src="https://datawrapper.dwcdn.net/tWqkP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Distance Travelled (2025)" aria-label="Stacked Bars" id="datawrapper-chart-tWqkP" src="https://datawrapper.dwcdn.net/tWqkP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Family Outings
 
@@ -181,10 +169,10 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 Up from last year even considering I've missed January data.  Partly because I increased my data allowance and made no effort to be conservative (I stopped being stingy, it was only an extra 90 pence a month 😆).
 
 #### By Day
-<iframe title="Mobile Data (2025)" aria-label="Bar Chart" id="datawrapper-chart-6eisK" src="https://datawrapper.dwcdn.net/6eisK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="246" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Mobile Data (2025)" aria-label="Bar Chart" id="datawrapper-chart-6eisK" src="https://datawrapper.dwcdn.net/6eisK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="246" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 #### By Month
-<iframe title="Mobile Data (2025) -Monthly" aria-label="Bar Chart" id="datawrapper-chart-Z6o5P" src="https://datawrapper.dwcdn.net/Z6o5P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Mobile Data (2025) -Monthly" aria-label="Bar Chart" id="datawrapper-chart-Z6o5P" src="https://datawrapper.dwcdn.net/Z6o5P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### Median Usage Patterns
 
@@ -207,13 +195,13 @@ One mystery remains: April 5th logged 11.33GB in a single day. No idea what that
 - **Messages**: 14,509
 - **Reactions**: 6,042
 
-<iframe title="Slack (2025)" aria-label="Split Bars" id="datawrapper-chart-xot5H" src="https://datawrapper.dwcdn.net/xot5H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Slack (2025)" aria-label="Split Bars" id="datawrapper-chart-xot5H" src="https://datawrapper.dwcdn.net/xot5H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ### GitHub
 
 - **Contributions**: 1,740 (up 17%)
 
-![GitHub](2025-github.png#center)
+![GitHub contribution graph for 2025, 1,740 contributions](2025-github.png#center)
 
 ---
 

@@ -3,8 +3,8 @@ title: "Expert DPO Advice, Amateur Redaction Execution"
 date: 2025-11-14
 draft: false
 description: "I FOI'd how much a school pays for DPO services. Their botched redactions showed the gap between expert advice and execution support."
-tags: ["data protection", "information governance", "FOI"]
-categories: ["Privacy"]
+tags: ["governance"]
+categories: ["Security"]
 ---
 
 On 27th October 2025, I submitted a Freedom of Information (FOI) request to a school in England. I was intrigued to learn how much they spent on outsourced Data Protection Officer services, and whether it represented fair value for the public purse.

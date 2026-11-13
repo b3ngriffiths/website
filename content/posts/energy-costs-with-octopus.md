@@ -3,7 +3,7 @@ title: "Slashing Energy Costs with Intelligent Octopus Tariffs (Real Data)"
 date: 2023-10-07T10:00:00Z
 draft: false
 description: "How I paid less than £2 for electricity in the first month using Octopus Energy's intelligent tariffs and solar generation"
-tags: ["energy", "solar"]
+tags: ["energy"]
 categories: ["Energy"]
 ---
 
@@ -28,7 +28,7 @@ The strategy I adopted this first month was to take the following steps:
 
 ### Daily Grid Import vs Export
 
-<iframe title="" aria-label="Split Bars" id="datawrapper-chart-3ghAr" src="https://datawrapper.dwcdn.net/3ghAr/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1001" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="" aria-label="Split Bars" id="datawrapper-chart-3ghAr" src="https://datawrapper.dwcdn.net/3ghAr/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1001" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 There are some notable items from this data to callout:
 
@@ -39,7 +39,7 @@ There are some notable items from this data to callout:
 
 ### Cost Analysis
 
-<iframe title="Cost Analysis" aria-label="Table" id="datawrapper-chart-HUTL4" src="https://datawrapper.dwcdn.net/HUTL4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="159" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Cost Analysis" aria-label="Table" id="datawrapper-chart-HUTL4" src="https://datawrapper.dwcdn.net/HUTL4/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="159" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 Our electricity cost was only **£1.95**, for net 284.42 kWh usage which also included those three EV charges 🎉
 
@@ -47,9 +47,9 @@ Our electricity cost was only **£1.95**, for net 284.42 kWh usage which also in
 
 Instead of exporting all solar generation, if I kept it for self-powered use this would massively reduce import from the grid overnight. Assuming nothing was exported, which would be feasible between immediate use and storing in home battery, the import would reduce to only 284.4 kWh.
 
-Whilst the import amount would have approximately halved, there no income from export.
+Whilst the import amount would have approximately halved, there is no income from export.
 
-<iframe title="Cost without Export" aria-label="Table" id="datawrapper-chart-8CkK3" src="https://datawrapper.dwcdn.net/8CkK3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="194" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe loading="lazy" title="Cost without Export" aria-label="Table" id="datawrapper-chart-8CkK3" src="https://datawrapper.dwcdn.net/8CkK3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="194" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 Without exporting, our electricity cost would have been 11 times higher at **£21.33**.
@@ -60,7 +60,7 @@ Our electricity cost would have increased by nearly 10x to £21.33. Therefore, o
 
 Amalgamated over the month, a view of when energy was imported and exported throughout the day.
 
-<iframe title="Time of Use: Day View" aria-label="Area Chart" id="datawrapper-chart-TGCI7" src="https://datawrapper.dwcdn.net/TGCI7/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="417" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe loading="lazy" title="Time of Use: Day View" aria-label="Area Chart" id="datawrapper-chart-TGCI7" src="https://datawrapper.dwcdn.net/TGCI7/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="417" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 The decision for timings has been driven by the tariff - [Intelligent Octopus Go](https://octopus.energy/smart/intelligent-octopus-go/)
 

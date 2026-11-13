@@ -3,8 +3,8 @@ title: "Consistency"
 date: 2025-11-10
 draft: false
 description: "Why tracking consistency alone isn't enough, and how measuring the right outcomes transforms motivation when progress feels invisible."
-tags: ["running", "fitness", "VO2 max"]
-categories: ["Health"]
+tags: ["fitness"]
+categories: ["Life"]
 ---
 
 Two months in, and my body still aches putting running shoes on for the next run. Progress feels invisible. It's a lot of effort, and quitting feels tempting.
@@ -34,7 +34,7 @@ You can be consistent without making meaningful progress. And when you can't see
 
 After two months of habitual running, I realised I'd fallen into the consistency trap: I had no idea if the runs were working. My body still ached. Runs still felt hard. I had evidence I was showing up, but it didn't prove it mattered.
 
-Social media is full of overnight transformations. Two months of running did not look like that. My body still ached and the runs still felt hard.
+Social media is full of overnight transformations. Two months of running did not look like that.
 
 **We're wired for instant feedback.** Let's be honest, we all love immediate results. Social media feeds us highlight reels: dramatic transformations, overnight success. We start to believe meaningful change should be fast. It's a dangerous belief that distorts reality and sets us up for frustration when our progress doesn't match those warped expectations.
 

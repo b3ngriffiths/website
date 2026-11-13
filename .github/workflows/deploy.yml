@@ -21,9 +21,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.166.0
+      HUGO_VERSION: 0.169.0
       # sha256 of hugo_extended_${HUGO_VERSION}_linux-amd64.deb from the release checksums file
-      HUGO_SHA256: 52b06555f739b1a08e04f5c31296e9bdf166a012e9b7e3137befc889dbc24db8
+      HUGO_SHA256: a20f7da84e0981bebbecc032cc87f0dda2049a844727720aab14e61ce416e5e9
     steps:
       - name: 📦 Install Hugo CLI
         run: |

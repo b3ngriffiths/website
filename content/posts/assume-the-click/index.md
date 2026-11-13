@@ -3,10 +3,11 @@ title: "Assume the Click"
 date: 2026-11-13
 draft: false
 description: "It's time to end phishing tests."
-tags: ["phishing", "security awareness", "social engineering", "cyber resilience", "metrics"]
+tags: ["social engineering", "cyber resilience", "metrics"]
 categories: ["Security"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "A red fire alarm call point and its red warning sign mounted on a bare concrete wall"
     hiddenInSingle: false
     hiddenInList: true

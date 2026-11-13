@@ -3,10 +3,11 @@ title: "I Red Teamed Our Red Team in 6 Minutes"
 date: 2026-01-18
 draft: false
 description: "How I impersonated our CISO and phished the people who socially engineer for a living"
-tags: ["security", "social engineering", "Microsoft 365", "red team", "insider threat"]
+tags: ["social engineering"]
 categories: ["Security"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "Office scene showing a Blue Team member with 'CISO... honestly' badge reaching for a confidential Red Team report while the Red Team operator works obliviously at their laptop"
     hiddenInSingle: false
     hiddenInList: true
@@ -16,11 +17,12 @@ Those of you who know me personally won't find this hard to believe, but at time
 
 Let me share a story with you.
 
-Winter 2024, a member of the vulnerability management team sent me an interesting article.  Not a typical vulnerability, there was nothing to 'patch', but a feature in official Microsoft tool that could present a security weakness.
+Winter 2024, a member of the vulnerability management team sent me an interesting article.  Not a typical vulnerability, there was nothing to 'patch', instead a feature as part of official Microsoft tool that could present a security weakness.
 
 The article detailed how Microsoft Bookings, a legitimate scheduling tool enabled by default in most Microsoft 365 tenants, automatically provisions working mailboxes when you create shared booking pages. No IT approval needed, no helpdesk ticket, just a few clicks for instant creation. The mailbox looks legitimate because it *is* legitimate: real Microsoft 365 mailbox, passes SPF/DKIM/DMARC checks, sits right alongside every other mailbox in your tenant.
 
 Reading the article, I immediately saw the potential. And obviously, I had to test it.
+
 As Security Operations, I'm part of the defenders, the blue team, those on a mission to detect and respond to threats.  Our Red Team, as part of Offensive Security, are motivated by the exact opposite; thinking and acting like attackers, breaking things, finding weaknesses, designing social engineering and challenging trust assumptions.
 
 Target acquired, our healthy rivalry made the choice obvious.
@@ -37,7 +39,7 @@ I created a booking page using our CISO's name. Microsoft helpfully provisioned 
 The mailbox was now live. I could simply access the mailbox and send and receive emails. It appeared in our Global Address List alongside legitimate accounts. From a technical perspective, it was indistinguishable from any other mailbox in our tenant.
 
 Then I sent an email to the Red Team operator:
-```
+```text
 Hi,
 
 I am with the board looking for a copy of latest red team report. Can you send me pdf please?
@@ -58,7 +60,7 @@ It was only a few hours later when the Red Team operator must have mentioned the
 
 Given my role in security incident response a Zoom call came flying in soon after. A slightly flustered CISO and Red Team operator, rapidly trying to establish what had happened and how.  
 
-Unbeknown to them, they called the perp. I fessed up and explained it was me, there was visible relief and laughter. Oops. I was then asked to give CISO a heads-up before running tests involving executive impersonation.
+Unbeknown to them, they called the perp. I fessed up and explained it was me, there was visible relief and laughter. Oops. I was asked to give the CISO a heads-up before running tests involving executive impersonation.
 
 The Red Team took it very well.  Banter!
 
@@ -71,7 +73,7 @@ This technique doesn't require sophisticated access. Any user with a Microsoft 3
 
 - **Compromised accounts** - an attacker who's phished even a single low-privilege user now has a pathway to impersonate anyone in your organisation.
 
-Once they have that foothold, here's some ideas of what becomes possible:
+Once they have that foothold, here are some ideas for what becomes possible:
 
 **Internal scenarios:**
 - Abuse internal processes to request privileged access or credentials, enabling lateral movement and privilege escalation
@@ -108,7 +110,7 @@ After the initial amusement wore off, we needed to actually fix this. Here's wha
 
 ### Step 1: Audit What Already Exists
 First, understand your current exposure. Check what Bookings mailboxes exist:
-```
+```powershell
 Connect-ExchangeOnline
 Get-Mailbox -RecipientTypeDetails SchedulingMailbox
 ```
@@ -141,7 +143,7 @@ We implemented detection immediately, to provide that coverage during that audit
 
 ### Step 4: Prevention
 Once the audit confirmed no business need, we disabled it:
-```
+```powershell
 Connect-ExchangeOnline
 Set-OrganizationConfig -BookingsEnabled $false
 ```

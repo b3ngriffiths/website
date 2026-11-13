@@ -3,10 +3,11 @@ title: "Your SOC Metrics Aren't Measuring Security"
 date: 2026-03-30
 draft: false
 description: "MTTR, alert volume, false positive rate. The SOC metrics everyone reports, that tell executives nothing about the organisation's cyber resilience."
-tags: ["security operations", "SOC", "cyber resilience", "metrics"]
+tags: ["security operations", "cyber resilience", "metrics"]
 categories: ["Security"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "Close-up of an aircraft cockpit instrument panel showing multiple gauges and dials, all displaying readings but none showing the destination"
     hiddenInSingle: false
     hiddenInList: true

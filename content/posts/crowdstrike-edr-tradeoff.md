@@ -3,7 +3,7 @@ title: "The CrowdStrike Lesson: Security vs Operational Risk"
 date: 2024-07-22
 draft: false
 description: "Lessons from the CrowdStrike outage: the hidden tradeoff between bleeding-edge threat protection and operational risk in EDR deployments"
-tags: ["CrowdStrike", "EDR", "Security Operations"]
+tags: ["security operations"]
 categories: ["Security"]
 ---
 

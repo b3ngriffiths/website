@@ -1,0 +1,19 @@
+{{- define "main" }}
+<div class="not-found-page">
+    <h1>404</h1>
+    <p id="not-found-line">Nothing here. The runbook did not cover this.</p>
+    <p><a href="{{ "posts/" | absURL }}">Browse all posts</a> · <a href="{{ "" | absURL }}">Home</a></p>
+</div>
+<script>
+    (function () {
+        const lines = [
+            "Nothing here. The runbook did not cover this.",
+            "Page not found. Escalating to someone who also doesn’t know.",
+            "Gone. Or never provisioned. Same outcome.",
+            "This page failed closed.",
+        ];
+        const el = document.getElementById("not-found-line");
+        if (el) el.textContent = lines[Math.floor(Math.random() * lines.length)];
+    })();
+</script>
+{{- end }}{{/* end main */ -}}

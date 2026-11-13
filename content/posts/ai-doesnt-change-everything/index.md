@@ -3,10 +3,11 @@ title: "AI Doesn't Change Everything"
 date: 2026-08-10
 draft: false
 description: "AI changes the speed, scale, and cost of attacks. It does not change what cyber resilience is, and a security team can take on a debt it never writes down."
-tags: ["cyber resilience", "AI", "security operations", "SOC", "leadership"]
+tags: ["cyber resilience", "AI", "security operations", "leadership"]
 categories: ["Security"]
 cover:
     image: "cover.jpg"
+    relative: true
     alt: "Workers on scaffolding against the stone facade of an ornate building"
     hiddenInSingle: false
     hiddenInList: true
