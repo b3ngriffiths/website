@@ -9,7 +9,7 @@ categories: ["Energy"]
 
 In early September, Octopus Energy made a surprise but very welcome announcement they were going to increase the electricity export rate from 4.1p/kWh to an enticing 15p/kWh for Intelligent Octopus customers. The new tariff is aptly called [Octopus Outgoing](https://octopus.energy/smart/outgoing/).
 
-Quite the jump, just over 3.6x the previous rate! What makes this even more interesting is my current import tariff is 7.5p/kWh overnight, presenting a unique opportunity to enhance my setup to earn double for export compared to what I pay for import.
+Quite the jump, just over 3.6x the previous rate! My overnight import is 7.5p/kWh, so export pays about double what I pay to import.
 
 ## Aim
 

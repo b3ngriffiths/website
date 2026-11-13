@@ -76,7 +76,7 @@ I enjoyed exploring and digging into data when [reviewing my 2023](/posts/2023-w
 
 ### Average Resting Heart Rate and VO2 Max
 
-Of note, as VO2 Max increases resting heart rate decreased. This demonstrates strong inverse correlation between the two metrics, highlighting the relationship between cardiovascular efficiency and fitness level.
+As VO2 max went up, resting heart rate went down.
 
 <iframe title="Resting HR and VO2 Max (2024)" aria-label="Line chart" id="datawrapper-chart-H6WC0" src="https://datawrapper.dwcdn.net/H6WC0/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="509" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 

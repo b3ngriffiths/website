@@ -79,7 +79,7 @@ The table below shows effective tax rates (income tax + NI as a % of total incom
 |        £150,000 | 40.6% | 40.8% | 40.9% | 41.1% | 41.3% | 41.5% | 41.6% |   +1.0pp |
 |        £200,000 | 42.2% | 42.3% | 42.5% | 42.6% | 42.7% | 42.8% | 43.0% |   +0.8pp |
 
-**The pattern is clear:** lower earners face the steepest proportional increases. A £20k worker sees their effective tax rate jump 3.3 percentage points; a £200k earner just 0.8pp. Worse still, it’s lower and middle income families who’ll be hit hardest by the frozen child benefit (tapered from £60k) and childcare (removed above £100k) thresholds as salary growth pushes them into those zones. Labour promised they wouldn’t hurt working people. The maths says they’re getting squeezed from both sides.
+Lower earners take the bigger hit. A £20k worker sees their effective tax rate jump 3.3 percentage points; a £200k earner just 0.8pp. Worse still, it’s lower and middle income families who’ll be hit hardest by the frozen child benefit (tapered from £60k) and childcare (removed above £100k) thresholds as salary growth pushes them into those zones. Labour promised they wouldn’t hurt working people. The maths says they’re getting squeezed from both sides.
 
 _Note: this table doesn't account for additional impact from child benefit and free childcare thresholds. [^3]_
 
@@ -87,7 +87,7 @@ _Note: this table doesn't account for additional impact from child benefit and f
 [^3]: The High Income Child Benefit Charge starts at £60,000; free childcare eligibility ends at £100,000. Both are frozen. As more families drift into these zones through salary growth alone, they face effective tax rates far higher than the tables above suggest, losing benefits worth up to £2,501 annually (for two children) or £10,000+ in childcare support, while rates technically stay unchanged.
 
 ## The Scale
-The Office for Budget Responsibility (OBR) doesn't deal in semantic games. Their projections are blunt: by 2030-31, the threshold freeze will:
+The Office for Budget Responsibility's (OBR) numbers: by 2030-31, the threshold freeze will:
 - **Pull 5.1 million people into paying income tax for the first time**
 - **Push 4.7 million existing taxpayers into the higher-rate (40%) band**
 - **Raise an extra £52 billion annually for the Treasury**

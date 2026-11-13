@@ -13,11 +13,11 @@ I'm not here to throw any more at CrowdStrike. They've had enough. There was a m
 
 [^1]: On 19th July 2024, CrowdStrike released a routine content configuration update for their Falcon Windows sensor. A defect in this update caused system crashes (BSOD) for Windows hosts that pulled the update between 04:09 and 05:27 UTC. The issue was identified and reverted at 05:27 UTC, but recovery required manual remediation on affected systems.
 
-There is a lesson to be learnt though: every security control carries a tradeoff, and in this case it's operational risk. But this recent event serves to remind us.
+There is a lesson to be learnt though: every security control carries a tradeoff, and in this case it's operational risk.
 
 **We cannot just blindly push security controls; there are tradeoffs which must be understood.**
 
-If you deploy an Endpoint Detection and Response (EDR) solution in production and choose to be at the bleeding edge of threat updates, this will do wonders for threat management, enabling faster response to emerging threats and keeping your detection capabilities current with the evolving threat landscape. However, you are also accepting an internet connected privileged binary operated by a third-party, and with it the bleeding edge of any potential bugs, false positives and supply chain compromise.
+If you deploy an Endpoint Detection and Response (EDR) solution in production and sit on the bleeding edge of content updates, you will see new threats sooner. You are also accepting an internet connected privileged binary operated by a third-party, and with it their bugs, false positives and supply chain compromise.
 
 Remember this was a content update, not a sensor software update issue, therefore the n-1 strategy didn't apply here. Because EDR content updates are typically pushed near real-time to maintain threat protection, the standard deployment safeguards (staging, canary deployments, where you test updates on 5-10% of systems before full rollout) that would catch a buggy software release simply weren't in play.
 
@@ -27,4 +27,4 @@ The real-world impact of this tradeoff became immediately visible in how organis
 
 [^2]: The outage impacted approximately 8.5 million Windows devices globally. Major organisations affected included airlines (Delta, United, American Airlines with thousands of flight cancellations), healthcare providers (mass appointment cancellations and delayed procedures), banks and financial services (transaction processing disruptions), emergency services (911 systems in multiple US states), and broadcasters (Sky News went off-air). The manual remediation requirement meant recovery took days for many organisations.
 
-**Key takeaway:** This isn't about CrowdStrike. This has happened before with other security providers and will happen again. I'm not saying whether you should or shouldn't be at the forefront of threat management updates. Whatever you decide, ensure you understand the risk. What security tooling do you have deployed, and do you understand its security vs operational risk?
+This isn't about CrowdStrike. This has happened before with other security providers and will happen again. I'm not saying whether you should or shouldn't be at the forefront of threat management updates. Whatever you decide, ensure you understand the risk. What security tooling do you have deployed, and do you understand its security vs operational risk?

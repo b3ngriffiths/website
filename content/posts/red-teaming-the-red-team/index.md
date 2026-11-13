@@ -91,9 +91,9 @@ Once they have that foothold, here's some ideas of what becomes possible:
 
 Insider threat doesn't require malicious intent. It requires access, opportunity, and organisational trust.
 
-The gap between security awareness training and actual behaviour under pressure is significant. Everyone "knows" to verify sender addresses. Everyone "knows" to question urgent requests from leadership. But knowing and doing are different things, especially when the email looks legitimate, comes from a trusted domain, carries the weight of authority, and demands urgency.
+Everyone "knows" to verify sender addresses. Everyone "knows" to question urgent requests from leadership. But knowing and doing are different things, especially when the email looks legitimate, comes from a trusted domain, carries the weight of authority, and demands urgency.
 
-Even security professionals have blind spots. Our Red Team's entire job is thinking like attackers, yet they fell for an insider scenario because it exploited organisational trust rather than technical vulnerabilities. That's the uncomfortable reality: insider attacks don't look like attacks. They look like normal business operations until they're not.
+Even security professionals have blind spots. Our Red Team's entire job is thinking like attackers, yet they fell for an insider scenario because it exploited organisational trust rather than technical vulnerabilities. It looked like the CISO asking for the report.
 
 **Technical controls have limits.** Microsoft Bookings exists because it solves a legitimate business need - it allows teams to manage appointments and shared calendars efficiently. Blocking it entirely would create friction and drive users to find workarounds, probably less secure ones. The security challenge isn't preventing the feature from existing, it's detecting when it's being abused.
 

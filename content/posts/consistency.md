@@ -9,9 +9,9 @@ categories: ["Health"]
 
 Two months in, and my body still aches putting running shoes on for the next run. Progress feels invisible. It's a lot of effort, and quitting feels tempting.
 
-I'm tracking the consistency, I did the thing? Check ✅ But here's where I almost got it wrong, focusing on consistency alone was a motivation mistake.
+Did the thing? Check ✅ That tick was the wrong thing to stare at.
 
-Consistency is the foundation. But tracking the right outcome is what fuels momentum when motivation fades.
+Showing up got me out the door. It did not tell me if the running was working.
 
 ## The Plan
 
@@ -34,7 +34,7 @@ You can be consistent without making meaningful progress. And when you can't see
 
 After two months of habitual running, I realised I'd fallen into the consistency trap: I had no idea if the runs were working. My body still ached. Runs still felt hard. I had evidence I was showing up, but it didn't prove it mattered.
 
-Here's why this trap is so common:
+Social media is full of overnight transformations. Two months of running did not look like that. My body still ached and the runs still felt hard.
 
 **We're wired for instant feedback.** Let's be honest, we all love immediate results. Social media feeds us highlight reels: dramatic transformations, overnight success. We start to believe meaningful change should be fast. It's a dangerous belief that distorts reality and sets us up for frustration when our progress doesn't match those warped expectations.
 
@@ -103,7 +103,7 @@ However, I have proof it works. Reviewing the data I can see my VO₂ max drops 
 
 ## The Takeaway
 
-Consistency is your foundation. Outcome tracking is your fuel. Together, they create sustainable progress.
+The tick got me out the door. The VO₂ max, the parkrun times, and the long run told me it was working, and only when I looked back over months.
 
 Most people quit because they only track one: they check boxes without knowing if they're improving, or they obsess over daily results before real change has time to compound.
 

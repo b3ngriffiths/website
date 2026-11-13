@@ -26,9 +26,6 @@ Looking at the last year, powering the whole home, heating, hot water, and the 1
 
 <iframe title="2025 Annual Energy Cost Distribution" aria-label="Grouped column chart" id="datawrapper-chart-tBjzX" src="https://datawrapper.dwcdn.net/tBjzX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-## Each Step Enabled The Next
-Each upgrade taught me something that made the next one easier.
-
 The EV forced me to understand electricity tariffs. Solar made me track generation vs. consumption. The battery taught me to shift usage to cheap overnight rates. Each upgrade didn't just save money, it gave me the knowledge to make the next decision confidently.
 
 But, was it worth it financially?
@@ -52,6 +49,6 @@ Every home is different, there's a bunch of variables that would improve or redu
 
 *I haven't included the EV in the payback calculation. Despite higher monthly payments, it had no payback period as the £1,800/year savings in fuel plus lower maintenance costs **immediately** outweighed the additional cost.*
 
-7.5 year payback, complete energy independence, and costs I can predict in advance.
+7.5 year payback, greater energy independence and control, and costs I can predict in advance.
 
 > That EV in 2020 was the gateway drug, I did not imagine it would lead me here. Best unintentional journey I've ever started. ⚡

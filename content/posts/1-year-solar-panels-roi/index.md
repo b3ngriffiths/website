@@ -35,7 +35,7 @@ Ours face 210° South West on a 40° pitch, so about 97% optimal.
 
 ### Shading
 
-You'll need to consider any shading from trees, other houses, or whatever else might be between the sun and the panels. It's worth noting the sun path is higher in the sky, compared to the winter when it's much lower (for northern hemisphere of course).
+You'll need to consider any shading from trees, other houses, or whatever else might be between the sun and the panels. The sun sits higher in summer and much lower in winter (northern hemisphere).
 
 We have no shading, until peak winter when the sun is so low in the sky for a period of the day the panels are shared by houses approximately 15 metres away.
 
@@ -67,7 +67,7 @@ Let me explain with two simplified analogies:
 
 2. Solar is generating 3 kWh of energy, and we start the dishwasher. The first part of the cycle heats water needing all the solar for about 10 minutes, but the rest of the cycle drops to 0.8 kWh. So we're then exporting majority of generation and only using a bit.
 
-The point I wish to convey is supply and demand are very rarely aligned, especially when considering this across multiple devices in the home each with varying peaks/troughs, and the UK weather which can change generate in a moment.
+Supply and demand are very rarely aligned, especially when considering this across multiple devices in the home each with varying peaks/troughs, and the UK weather which can change generate in a moment.
 
 We therefore need to break the savings into two categories:
 

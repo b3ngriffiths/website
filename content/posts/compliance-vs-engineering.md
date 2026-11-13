@@ -33,8 +33,6 @@ Same threat landscape. Genuinely different picture.
 
 ## Confident and Wrong
 
-Here's where it gets dangerous.
-
 In a study on group decision-making at Columbia Business School, teams were given a murder mystery to solve.[^2] Half the teams were composed of four friends. The other half were three friends plus a stranger, someone from outside their social group.
 
 The diverse teams got the right answer 75% of the time. The homogenous teams got it right 54% of the time. But the more revealing finding was about confidence. The homogenous teams found the process agreeable. They spent most of their time, well, agreeing. They were far more confident they'd reached the right answer.
@@ -63,7 +61,7 @@ Security governance is typically owned by compliance teams. That's not inherentl
 
 ## Obviously...
 
-Let's make this concrete. Phishing simulation programmes. A staple.
+Phishing simulation programmes. A staple.
 
 To compliance, regular phishing simulations are a control. Send campaigns, measure click rates, show reduction over time. It evidences awareness, gives the board a metric they can track, and demonstrates due diligence to auditors and regulators. Repeat clickers get targeted training. It evidences that the organisation is actively managing human risk, not just hoping people are careful. It's "obviously" good security practice.
 
@@ -73,7 +71,7 @@ Both teams are right from their vantage point. Both are also incomplete.
 
 ## Who Gets the Credit?
 
-There's one more structural factor that makes this harder, and it's rarely discussed openly.
+There's a structural factor on top of this.
 
 Compliance gets visible, measurable, upfront wins. Audits passed. Certifications achieved. Frameworks mapped. The team can point to artefacts and say: "we did this."
 

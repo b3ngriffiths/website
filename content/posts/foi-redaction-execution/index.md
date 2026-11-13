@@ -94,7 +94,7 @@ This doesn't necessarily mean the DPO does all the work (that would be neither p
 The key is recognising that templates and guidance alone don't prevent delivery failures when staff lack the foundational skills, time, or confidence to apply them correctly.
 
 ## The Responsibility Question
-Here's the uncomfortable reality: schools can't outsource ultimate responsibility for information governance.
+Schools can't outsource ultimate responsibility for information governance.
 
 Under UK GDPR, the school is the data controller. They make the decisions, they carry the liability, and they're accountable for what happens with information in their care. The DPO service is there to advise, not to take over.
 
@@ -132,12 +132,6 @@ The goal isn't to outsource your information governance problems. It's to build 
 ---
 
 ## The Takeaway
-The school did many things right. They acknowledged my request promptly, conducted a proper Public Interest Test, and invested in professional DPO services. The intent was there.
+They answered quickly, did a proper public interest test, and pay for a DPO. The redaction still failed.
 
-But intent without execution is just expensive policy documentation.
-
-The gap between expert advice and amateur execution is where risk lives. Whether it's a failed redaction on an FOI response or a more serious data breach, having the right policies doesn't protect you if the people implementing them lack the capability to execute properly.
-
-Schools should absolutely use DPO services where appropriate. But the critical issue is whether those services are designed to bridge the execution gap, or simply provide advice that never reaches the front line.
-
-If you're paying for expertise that stops at guides and a helpline number, you're not paying for information governance. You're paying for liability insurance that won't pay out when you need it - **expertise that never reaches the work itself.**
+A guide and a helpline did not redact the file. The person answering the FOI is still on their own, including on safeguarding requests.

@@ -2,7 +2,7 @@
 title: "AI Doesn't Change Everything"
 date: 2026-08-10
 draft: false
-description: "AI changes the speed, scale, and economics of attacks. It doesn't change what cyber resilience is. Why the fundamentals matter more in an AI era, not less, and the resilience debt most security functions are quietly taking on."
+description: "AI changes the speed, scale, and cost of attacks. It does not change what cyber resilience is, and a security team can take on a debt it never writes down."
 tags: ["cyber resilience", "AI", "security operations", "SOC", "leadership"]
 categories: ["Security"]
 cover:
@@ -40,11 +40,11 @@ That definition predates and survives AI untouched. The frameworks have said the
 
 Three things, and only three things, really matter for resilience.
 
-**Speed.** An attack that took days to move through a network can now move in minutes. Dwell time collapses. The window to detect, decide, and contain shrinks to almost nothing.
+**Speed.** An attack that took days can now move through a network in minutes. The window to detect, decide, and contain shrinks with it.
 
-**Scale.** Attacks that needed human effort per target now run against thousands at once, for the same cost. Volume stops being a constraint.
+**Scale.** The same attack used to cost effort per target. It can now run against thousands for the same money.
 
-**Economics.** The barrier to a competent attack drops. Capability that once needed a skilled operator is now available to someone with far less skill and a subscription (or open-source model and some compute power).
+**Economics.** You used to need a skilled operator. Now you need a subscription, or an open-source model and some compute.
 
 None of this is a new *type* of threat. It is the threats you already know, arriving faster, broader, and cheaper. Which is exactly why the fundamentals matter more.
 
@@ -54,7 +54,7 @@ When an attack compresses from days to minutes, there is no time to deliberate o
 
 I have written before about why [prescriptive runbooks cap a team](/posts/not-paid-to-think/) rather than build one. AI sharpens that argument into a resilience requirement. A team trained to follow steps and escalate the unfamiliar will freeze at exactly the speed AI operates. A team that understands intent and is trusted to act within it will not.
 
-The uncomfortable part for leadership: **the organisations leaning hardest on documented, step-by-step process are the least ready for AI-speed incidents.** They have mistaken documentation for readiness. A runbook is a record of how you handled the last thing. It is not judgment, and judgment is the only thing fast enough.
+**The organisations leaning hardest on documented, step-by-step process are the least ready for AI-speed incidents.** They have mistaken documentation for readiness. A runbook is a record of how you handled the last thing. It is not judgment, and judgment is the only thing fast enough.
 
 ## Resilience Debt
 
@@ -107,7 +107,7 @@ AI does not change everything, as the industry headlines would have you believe.
 
 AI changes how fast you find out whether your fundamentals were ever real. Compressed timelines, larger scale, cheaper attacks: all of it shortens the gap between adopting something and discovering what it was quietly resting on.
 
-The organisations that come through this won't be the ones that adopted AI fastest. They'll be the ones that adopted it without taking on debt they couldn't see, and could still ride the bike when the stabilisers came off.
+Adopting fastest is the wrong test. The test is whether you can still ride the bike when the stabilisers come off.
 
 [^1]: Daniel Miessler makes a related observation he calls the [AI expertise trap](https://danielmiessler.com/blog/avoid-the-ai-expertise-trap): the further a topic sits from your expertise, the smarter an AI sounds. The corollary here is that resilience debt erodes exactly the expertise needed to judge.
 
