@@ -1,0 +1,104 @@
+{
+  "title": "Exercise Distance",
+  "type": "stacked",
+  "format": "trim",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "Run (km)",
+      "color": "#00dca6"
+    },
+    {
+      "name": "Cycle (km)",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        67.3,
+        0
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        62.02,
+        0
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        55.62,
+        0
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        49.76,
+        0
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        54.81,
+        0
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        29.74,
+        0
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        25.46,
+        0
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        31.88,
+        52.84
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        20.02,
+        111.9
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        32.42,
+        1.77
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        43.72,
+        25.88
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        9.85,
+        0
+      ]
+    }
+  ]
+}

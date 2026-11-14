@@ -1,0 +1,26 @@
+{
+  "title": "Cost without Export",
+  "type": "table",
+  "columns": [
+    "",
+    "Energy (kWh)",
+    "Cost"
+  ],
+  "rows": [
+    [
+      "Import",
+      "284.42",
+      "\u00a321.33"
+    ],
+    [
+      "Export",
+      "0",
+      "\u00a30"
+    ],
+    [
+      "Net",
+      "284.42",
+      "\u00a321.33"
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Average Daily Exercise (minutes)",
+  "type": "columns",
+  "format": "int",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Av. Daily Exercise (minutes)",
+      "color": "#1d81a2",
+      "colorDark": "#6ec4ea"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        47
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        44
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        38
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        34
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        33
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        37
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        43
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        33
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        39
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        30
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        37
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        37
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Resting HR (2025)",
+  "type": "multiples",
+  "format": "int",
+  "showKey": false,
+  "xLabels": "ends",
+  "series": [
+    {
+      "name": "2024",
+      "color": "#d73129",
+      "colorDark": "#ff6258"
+    },
+    {
+      "name": "2025",
+      "color": "#d73129",
+      "colorDark": "#ff6258"
+    }
+  ],
+  "rows": [
+    {
+      "label": "January",
+      "values": [
+        50,
+        52
+      ]
+    },
+    {
+      "label": "February",
+      "values": [
+        49,
+        51
+      ]
+    },
+    {
+      "label": "March",
+      "values": [
+        53,
+        49
+      ]
+    },
+    {
+      "label": "April",
+      "values": [
+        51,
+        49
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        50,
+        49
+      ]
+    },
+    {
+      "label": "June",
+      "values": [
+        52,
+        48
+      ]
+    },
+    {
+      "label": "July",
+      "values": [
+        51,
+        47
+      ]
+    },
+    {
+      "label": "August",
+      "values": [
+        47,
+        47
+      ]
+    },
+    {
+      "label": "September",
+      "values": [
+        50,
+        48
+      ]
+    },
+    {
+      "label": "October",
+      "values": [
+        54,
+        50
+      ]
+    },
+    {
+      "label": "November",
+      "values": [
+        49,
+        50
+      ]
+    },
+    {
+      "label": "December",
+      "values": [
+        58,
+        49
+      ]
+    }
+  ]
+}

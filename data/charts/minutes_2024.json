@@ -1,0 +1,88 @@
+{
+  "title": "Average Daily Exercise (2024)",
+  "type": "columns",
+  "format": "int",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Av. Daily Exercise (mins)",
+      "color": "#1d81a2",
+      "colorDark": "#6ec4ea"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        33
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        25
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        35
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        37
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        44
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        34
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        43
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        44
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        28
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        25
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        39
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        27
+      ]
+    }
+  ]
+}

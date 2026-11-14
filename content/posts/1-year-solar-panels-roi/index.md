@@ -57,7 +57,8 @@ I won't bore you with too many more and all the details, but generally to a less
 
 Through the year we generated 2880 kWh of electricity, and as expected it peaked in summer months and bottomed out in the winter.
 
-<iframe loading="lazy" title="Monthly Solar Generation" aria-label="Stacked Bars" id="datawrapper-chart-TxNM5" src="https://datawrapper.dwcdn.net/TxNM5/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="381" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "solar-year" >}}
+
 
 To calculate the savings from this, we can't simply multiply the generate by the cost of electricity at the time (which didn't have to buy). That's because we weren't able to consume 100% of it and were still reliant on, and used the grid.
 
@@ -76,7 +77,8 @@ We therefore need to break the savings into two categories:
 
 ## Savings
 
-<iframe loading="lazy" title="Savings" aria-label="Table" id="datawrapper-chart-YDYS1" src="https://datawrapper.dwcdn.net/YDYS1/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="132" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "savings-solar" >}}
+
 
 **Total saved in year 1 = £692.39**
 

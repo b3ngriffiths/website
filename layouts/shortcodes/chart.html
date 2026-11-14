@@ -1,0 +1,52 @@
+{{- $key := replace (.Get 0) "-" "_" -}}
+{{- $spec := index hugo.Data.charts $key -}}
+{{- if not $spec -}}
+<p>Missing chart {{ .Get 0 }}.</p>
+{{- else if eq $spec.type "table" -}}
+<figure class="chart is-table">
+  <table class="chart-data">
+    <caption>{{ $spec.title }}</caption>
+    <thead>
+      <tr>
+        {{- range $spec.columns }}
+        <th scope="col">{{ . }}</th>
+        {{- end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $spec.rows }}
+      <tr>
+        {{- range . }}
+        <td>{{ . }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</figure>
+{{- else -}}
+<figure class="chart" data-spec="{{ $spec | jsonify }}">
+  <div class="chart-view"></div>
+  <table class="chart-data">
+    <caption>{{ $spec.title }}</caption>
+    <thead>
+      <tr>
+        <th scope="col"></th>
+        {{- range $spec.series }}
+        <th scope="col">{{ .name }}</th>
+        {{- end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $spec.rows }}
+      <tr>
+        <th scope="row">{{ .label }}</th>
+        {{- range .values }}
+        <td>{{ . }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</figure>
+{{- end -}}

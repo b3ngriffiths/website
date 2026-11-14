@@ -1,0 +1,106 @@
+{
+  "title": "Steps (2024)",
+  "type": "columns",
+  "format": "int",
+  "tabs": true,
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Daily Average",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    },
+    {
+      "name": "Total Steps",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        9200,
+        285200
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        8891,
+        257839
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        10076,
+        312356
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        9920,
+        297600
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        11475,
+        355725
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        10162,
+        304860
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        10998,
+        340938
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        13974,
+        433194
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        9250,
+        277500
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        9615,
+        298065
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        9496,
+        284880
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        8425,
+        261175
+      ]
+    }
+  ]
+}

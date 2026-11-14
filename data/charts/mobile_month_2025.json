@@ -1,0 +1,82 @@
+{
+  "title": "Mobile Data (2025), monthly",
+  "type": "bars",
+  "format": "compact",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Mobile Data (MB)",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Feb",
+      "values": [
+        4532.49
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        12582.2
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        21994.74
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        9631.03
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        6298.39
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        5969.3
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        27608.24
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        9905.6
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        6557.17
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        8126.89
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        9237.55
+      ]
+    }
+  ]
+}

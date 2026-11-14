@@ -1,0 +1,104 @@
+{
+  "title": "Exercise Distance (2024)",
+  "type": "stacked",
+  "format": "trim",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "Run (km)",
+      "color": "#00dca6"
+    },
+    {
+      "name": "Cycle (km)",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        38.55,
+        0
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        28.34,
+        0
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        35.04,
+        0
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        76.4,
+        0
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        85.45,
+        3.9
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        64.43,
+        3.6
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        55.8,
+        1.4
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        66.94,
+        3.7
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        15.74,
+        1.6
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        20.96,
+        2.1
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        47.01,
+        0
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        11.26,
+        0
+      ]
+    }
+  ]
+}

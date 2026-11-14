@@ -1,0 +1,93 @@
+{
+  "title": "Random spending insights",
+  "type": "bars",
+  "format": "gbp",
+  "showKey": false,
+  "series": [
+    {
+      "name": "Amount",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Groceries",
+      "values": [
+        6452.15
+      ]
+    },
+    {
+      "label": "Octopus Energy",
+      "values": [
+        1583.52
+      ]
+    },
+    {
+      "label": "Amazon",
+      "values": [
+        1201.41
+      ]
+    },
+    {
+      "label": "Insurances",
+      "values": [
+        1201
+      ]
+    },
+    {
+      "label": "Hotels",
+      "values": [
+        657.45
+      ]
+    },
+    {
+      "label": "Gym & Swimming",
+      "values": [
+        604.13
+      ]
+    },
+    {
+      "label": "Haircuts",
+      "values": [
+        294
+      ]
+    },
+    {
+      "label": "DIY",
+      "values": [
+        230.86
+      ]
+    },
+    {
+      "label": "Cinema",
+      "values": [
+        180.14
+      ]
+    },
+    {
+      "label": "McDonalds",
+      "values": [
+        175.22
+      ]
+    },
+    {
+      "label": "Greggs",
+      "values": [
+        130.69
+      ]
+    },
+    {
+      "label": "Parking",
+      "values": [
+        103
+      ]
+    },
+    {
+      "label": "Library Fines",
+      "values": [
+        15.45
+      ]
+    }
+  ]
+}

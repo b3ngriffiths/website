@@ -1,0 +1,105 @@
+{
+  "title": "Average Time in Daylight (2025)",
+  "type": "area",
+  "format": "trim",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "2024",
+      "color": "#ff8029",
+      "colorDark": "#ff9348"
+    },
+    {
+      "name": "2025",
+      "color": "#e6b325",
+      "colorDark": "#fff196"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        36.4,
+        34.4
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        74.5,
+        70.2
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        103,
+        172
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        167,
+        99.1
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        251,
+        107
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        240,
+        97.8
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        242,
+        89.7
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        272,
+        127
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        140,
+        37
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        107,
+        44.5
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        46.5,
+        46.6
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        40.1,
+        43.9
+      ]
+    }
+  ]
+}

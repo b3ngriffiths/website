@@ -1,0 +1,105 @@
+{
+  "title": "VO2 Max (2025)",
+  "type": "line",
+  "format": "trim",
+  "showKey": true,
+  "dots": true,
+  "series": [
+    {
+      "name": "2024",
+      "color": "#1d81a2",
+      "colorDark": "#6ec4ea"
+    },
+    {
+      "name": "2025",
+      "color": "#09bb9f",
+      "colorDark": "#2ee0b8"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        36.7,
+        37.4
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        39.4,
+        39.8
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        39.4,
+        41
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        39.8,
+        42.4
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        40.7,
+        42.7
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        40.9,
+        44
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        40.6,
+        44.9
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        41.5,
+        45.7
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        41.4,
+        44.9
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        39.2,
+        45.3
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        39,
+        43.9
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        38.7,
+        43.3
+      ]
+    }
+  ]
+}

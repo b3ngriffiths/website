@@ -1,0 +1,104 @@
+{
+  "title": "Resting HR and VO2 Max (2024)",
+  "type": "line",
+  "format": "trim",
+  "showKey": true,
+  "series": [
+    {
+      "name": "Av. Resting heart rate",
+      "color": "#d73129",
+      "colorDark": "#ff6258"
+    },
+    {
+      "name": "VO2 Max",
+      "color": "#09bb9f",
+      "colorDark": "#2ee0b8"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        50,
+        36.7
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        49,
+        39.4
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        53,
+        39.4
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        51,
+        39.8
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        50,
+        40.7
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        52,
+        40.9
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        51,
+        40.6
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        47,
+        41.5
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        50,
+        41.4
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        54,
+        39.2
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        49,
+        39
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        58,
+        38.7
+      ]
+    }
+  ]
+}

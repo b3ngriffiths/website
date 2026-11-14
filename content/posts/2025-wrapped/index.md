@@ -30,7 +30,8 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 - **Total Solar generated**: 3162.7 kWh _(up 21%)_
 - **Energy Self-Sufficient**: 20%
 
-<iframe loading="lazy" title="Energy Data (2025)" aria-label="Split Bars" id="datawrapper-chart-jS4ZH" src="https://datawrapper.dwcdn.net/jS4ZH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "energy-2025" >}}
+
 
 > I do appreciate this energy usage is **very high** (about 4x UK average household). However, for additional context this is for home, heating, hot water, and EV charging and our annual costs are relatively low (for this level of consumption) at just over £1,000 - [read more about that here](/posts/ev-gateway-savings-snowball/).
 
@@ -52,23 +53,27 @@ I'm doing this again. There's something oddly satisfying about pausing at the en
 
 - **Exercise Distance**: 1,310.72 km _(up 233%)_
 
-<iframe loading="lazy" title="Exercise Distance (2025)" aria-label="Stacked Bars" id="datawrapper-chart-5r87W" src="https://datawrapper.dwcdn.net/5r87W/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "distance-2025" >}}
+
 
 - **Total Steps**: 3,607,574 _(down 2.8%)_
 
 Strange, given I ran over double the distance compared to 2024, I walked significantly less.
 
-<iframe loading="lazy" title="Steps (2025)" aria-label="Column Chart" id="datawrapper-chart-kNVPS" src="https://datawrapper.dwcdn.net/kNVPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="531" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "steps-2025" >}}
+
 
 - **Average Daily Exercise**: 46 minutes _(up 11 minutes)_
 
-<iframe loading="lazy" title="Average Daily Exercise (2025)" aria-label="Bullet Bars" id="datawrapper-chart-kw0yW" src="https://datawrapper.dwcdn.net/kw0yW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "minutes-2025" >}}
+
 
 - **Average Daily Time in Daylight**: 81 minutes _(down 47%)_
 
 A significant difference, and one I didn't expect to see.  My best guess is increasing my running distance means I walked less casually outdoors, reducing my time outside.
 
-<iframe loading="lazy" title="Average Time in Daylight (2025)" aria-label="Area Chart" id="datawrapper-chart-jIxR1" src="https://datawrapper.dwcdn.net/jIxR1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="287" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "daylight-2025" >}}
+
 
 ### Performance Metrics
 
@@ -76,11 +81,13 @@ A significant difference, and one I didn't expect to see.  My best guess is incr
 
 It has been satisfying to see the conscious effort to improve cardiovascular health can be seen in the data.
 
-<iframe loading="lazy" title="Resting HR (2025)" aria-label="Small multiple line chart" id="datawrapper-chart-FDxtM" src="https://datawrapper.dwcdn.net/FDxtM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="519" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "heart-2025" >}}
+
 
 - **Average VO2 Max**: 42.9 _(up 8% from 39.8)_
 
-<iframe loading="lazy" title="VO2 Max (2025)" aria-label="Line chart" id="datawrapper-chart-I928X" src="https://datawrapper.dwcdn.net/I928X/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="488" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "vo2-2025" >}}
+
 
 ### Body Composition
 
@@ -88,7 +95,8 @@ It has been satisfying to see the conscious effort to improve cardiovascular hea
 
 Comparing to 2024, my weight still fluctuates but averaged similarly over the year. A similar pattern of early year reduction, with lowest during summer (more active) and rising into winter and Christmas.  I'm pleased I ended 2025 without the typical peak from overindulgence.  A goal for 2026 is to drop below 90kg early, and then sustain for remainder of year.
 
-<iframe loading="lazy" title="Body Weight (2025)" aria-label="Line chart" id="datawrapper-chart-vqA66" src="https://datawrapper.dwcdn.net/vqA66/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "weight-2025" >}}
+
 
 ## Groceries
 
@@ -140,7 +148,8 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 
 ### Total Distance: 15,258 miles _(up 7.3%)_
 
-<iframe loading="lazy" title="Distance Travelled (2025)" aria-label="Stacked Bars" id="datawrapper-chart-tWqkP" src="https://datawrapper.dwcdn.net/tWqkP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "travel-2025" >}}
+
 
 ### Family Outings
 
@@ -169,10 +178,12 @@ Comparing to 2024, my weight still fluctuates but averaged similarly over the ye
 Up from last year even considering I've missed January data.  Partly because I increased my data allowance and made no effort to be conservative (I stopped being stingy, it was only an extra 90 pence a month 😆).
 
 #### By Day
-<iframe loading="lazy" title="Mobile Data (2025)" aria-label="Bar Chart" id="datawrapper-chart-6eisK" src="https://datawrapper.dwcdn.net/6eisK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="246" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "mobile-day-2025" >}}
+
 
 #### By Month
-<iframe loading="lazy" title="Mobile Data (2025) -Monthly" aria-label="Bar Chart" id="datawrapper-chart-Z6o5P" src="https://datawrapper.dwcdn.net/Z6o5P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "mobile-month-2025" >}}
+
 
 ### Median Usage Patterns
 
@@ -195,7 +206,8 @@ One mystery remains: April 5th logged 11.33GB in a single day. No idea what that
 - **Messages**: 14,509
 - **Reactions**: 6,042
 
-<iframe loading="lazy" title="Slack (2025)" aria-label="Split Bars" id="datawrapper-chart-xot5H" src="https://datawrapper.dwcdn.net/xot5H/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "slack-2025" >}}
+
 
 ### GitHub
 

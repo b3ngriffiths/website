@@ -1,0 +1,155 @@
+{
+  "title": "Kitchen Appliances (2024)",
+  "type": "stacked",
+  "format": "trim",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "Fridge Freezer (kWh)",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    },
+    {
+      "name": "Dishwasher (kWh)",
+      "color": "#00dca6"
+    },
+    {
+      "name": "Washing Machine (kWh)",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    },
+    {
+      "name": "Tumble Dryer (kWh)",
+      "color": "#fa8c00",
+      "colorDark": "#ff9d2e"
+    },
+    {
+      "name": "Oven (kWh)",
+      "color": "#d73129",
+      "colorDark": "#ff6258"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        18.1,
+        61.19,
+        38.81,
+        22.22,
+        16.19
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        19.97,
+        52.08,
+        40.15,
+        22.48,
+        15.23
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        20.72,
+        53.34,
+        29.61,
+        31.95,
+        14.88
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        22.23,
+        57.28,
+        30,
+        31.21,
+        17.65
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        24.66,
+        45.2,
+        22.9,
+        26.64,
+        11.21
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        25.86,
+        54.5,
+        24.18,
+        25.21,
+        16.03
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        27.61,
+        47.99,
+        24.28,
+        25.4,
+        11.41
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        27.6,
+        44.55,
+        27.62,
+        28.15,
+        13.58
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        25.77,
+        55.94,
+        26.46,
+        29.38,
+        16.5
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        22.46,
+        64.01,
+        34.3,
+        31.65,
+        18.54
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        20.62,
+        58.72,
+        32.29,
+        39.95,
+        17.4
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        21.37,
+        67.52,
+        33.87,
+        41.9,
+        28.2
+      ]
+    }
+  ]
+}

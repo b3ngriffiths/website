@@ -1,0 +1,42 @@
+{
+  "title": "GitHub Activity Overview",
+  "type": "donut",
+  "format": "percent",
+  "showKey": false,
+  "series": [
+    {
+      "name": "Share",
+      "color": "#18a1cd"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Code Review",
+      "values": [
+        33
+      ],
+      "color": "#18a1cd"
+    },
+    {
+      "label": "Commits",
+      "values": [
+        51
+      ],
+      "color": "#00dca6"
+    },
+    {
+      "label": "Issues",
+      "values": [
+        10
+      ],
+      "color": "#e0a84a"
+    },
+    {
+      "label": "Pull Requests",
+      "values": [
+        6
+      ],
+      "color": "#fa8c00"
+    }
+  ]
+}

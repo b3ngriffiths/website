@@ -1,0 +1,122 @@
+{
+  "title": "Distance Travelled (2024)",
+  "type": "stacked",
+  "format": "int",
+  "showKey": true,
+  "zero": true,
+  "total": true,
+  "series": [
+    {
+      "name": "Drive (miles)",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    },
+    {
+      "name": "Train (miles)",
+      "color": "#00dca6"
+    },
+    {
+      "name": "Fly (miles)",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        526,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        925,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        928,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        1191,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        909,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        675,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        1272,
+        436,
+        0
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        1282,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        1115,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        1175,
+        106,
+        1770
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        1204,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        706,
+        0,
+        0
+      ]
+    }
+  ]
+}

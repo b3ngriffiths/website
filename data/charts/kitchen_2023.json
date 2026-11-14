@@ -1,0 +1,138 @@
+{
+  "title": "Kitchen Appliances (2023)",
+  "type": "stacked",
+  "format": "trim",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "Fridge Freezer (kWh)",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    },
+    {
+      "name": "Dishwasher (kWh)",
+      "color": "#00dca6"
+    },
+    {
+      "name": "Washing Machine (kWh)",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    },
+    {
+      "name": "Tumble Dryer (kWh)",
+      "color": "#fa8c00",
+      "colorDark": "#ff9d2e"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        15.07,
+        46.71,
+        34.78,
+        28.95
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        14,
+        39.57,
+        31.68,
+        21.11
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        15.69,
+        41.52,
+        31.87,
+        21.81
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        17.86,
+        45.02,
+        33.73,
+        22.53
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        22.54,
+        43.98,
+        34.51,
+        25.54
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        27.49,
+        46.81,
+        31.83,
+        28.21
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        25.14,
+        38.39,
+        28.08,
+        25.14
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        25.77,
+        43.22,
+        34.77,
+        28.22
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        27.27,
+        41.54,
+        24.93,
+        20.76
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        22.32,
+        52.82,
+        34.72,
+        25.13
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        26.73,
+        45.62,
+        32.96,
+        24.36
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        28.74,
+        60.27,
+        42.64,
+        28.03
+      ]
+    }
+  ]
+}

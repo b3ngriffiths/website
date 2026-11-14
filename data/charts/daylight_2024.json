@@ -1,0 +1,88 @@
+{
+  "title": "Average Time in Daylight (2024)",
+  "type": "area",
+  "format": "trim",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Av. Time in Daylight (mins)",
+      "color": "#ff8029",
+      "colorDark": "#ff9348"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        36.4
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        74.5
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        103
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        167
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        251
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        240
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        242
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        272
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        140
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        107
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        46.5
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        40.1
+      ]
+    }
+  ]
+}

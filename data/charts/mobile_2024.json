@@ -1,0 +1,58 @@
+{
+  "title": "Mobile Data (2024)",
+  "type": "bars",
+  "format": "trim",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Average of Mobile Data (MB)",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Monday",
+      "values": [
+        227.98
+      ]
+    },
+    {
+      "label": "Tuesday",
+      "values": [
+        169.15
+      ]
+    },
+    {
+      "label": "Wednesday",
+      "values": [
+        109.56
+      ]
+    },
+    {
+      "label": "Thursday",
+      "values": [
+        145.81
+      ]
+    },
+    {
+      "label": "Friday",
+      "values": [
+        110.64
+      ]
+    },
+    {
+      "label": "Saturday",
+      "values": [
+        307.51
+      ]
+    },
+    {
+      "label": "Sunday",
+      "values": [
+        295.38
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "2025 Annual Energy Cost Distribution",
+  "type": "bars",
+  "format": "gbp",
+  "showKey": true,
+  "series": [
+    {
+      "name": "Cost",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    },
+    {
+      "name": "Credit",
+      "color": "#00dca6"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Home",
+      "values": [
+        379.81
+      ]
+    },
+    {
+      "label": "Heating/HW",
+      "values": [
+        426.32
+      ]
+    },
+    {
+      "label": "Car",
+      "values": [
+        423.61
+      ]
+    },
+    {
+      "label": "Standing Charge",
+      "values": [
+        223.17
+      ]
+    },
+    {
+      "label": "Incentives",
+      "values": [
+        -44
+      ]
+    },
+    {
+      "label": "Export",
+      "values": [
+        -387.39
+      ]
+    }
+  ]
+}

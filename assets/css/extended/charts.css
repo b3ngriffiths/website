@@ -1,0 +1,181 @@
+/* House charts: direct labels, a colour key, and hover, in the article type and theme. */
+
+.chart {
+  position: relative;
+  margin: 1.35rem 0 1.75rem;
+  color: var(--primary);
+  --chart-hover: rgba(0, 0, 0, 0.05);
+  --chart-grid: rgba(0, 0, 0, 0.16);
+  --chart-axis: var(--secondary);
+}
+
+[data-theme="dark"] .chart {
+  --chart-hover: rgba(255, 255, 255, 0.07);
+  --chart-grid: rgba(255, 255, 255, 0.28);
+}
+
+.chart-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.95rem;
+  margin: 0 0 0.45rem;
+  font-size: 12.5px;
+  line-height: 1.3;
+}
+
+.chart-key span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.chart-key i {
+  width: 0.7rem;
+  height: 0.7rem;
+  flex: none;
+}
+
+.chart-tabs {
+  display: flex;
+  gap: 1.05rem;
+  margin: 0 0 0.35rem;
+}
+
+.chart-tabs button {
+  appearance: none;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  color: var(--secondary);
+  font: inherit;
+  font-size: 13px;
+  line-height: 1.3;
+  padding: 0 0 0.18rem;
+  cursor: pointer;
+}
+
+.chart-tabs button[aria-selected="true"] {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+  font-weight: 650;
+}
+
+.chart-tabs button:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}
+
+.chart svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+  font-variant-numeric: tabular-nums;
+}
+
+.chart svg text {
+  pointer-events: none;
+}
+
+.chart-hit {
+  cursor: pointer;
+}
+
+.chart.is-ready .chart-data {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.chart-data {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.chart-data caption {
+  caption-side: bottom;
+  text-align: left;
+  color: var(--secondary);
+  font-size: 12px;
+  padding-top: 0.35rem;
+}
+
+.chart-data th,
+.chart-data td {
+  text-align: right;
+  padding: 0.22rem 0.45rem;
+  border-bottom: 1px solid var(--border);
+  font-weight: 450;
+}
+
+.chart-data th:first-child,
+.chart-data td:first-child {
+  text-align: left;
+}
+
+.chart.is-table .chart-data caption {
+  caption-side: top;
+  text-align: left;
+  font-style: normal;
+  font-weight: 650;
+  color: var(--primary);
+  padding: 0 0 0.4rem;
+}
+
+.chart-tip {
+  position: fixed;
+  z-index: 40;
+  min-width: 9rem;
+  max-width: 18rem;
+  background: color-mix(in srgb, var(--theme) 88%, transparent);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--border);
+  color: var(--primary);
+  font-size: 12px;
+  line-height: 1.35;
+  pointer-events: none;
+}
+
+.chart-tip[hidden] {
+  display: none;
+}
+
+.chart-tip-title {
+  margin: 3px 3px 0;
+  padding: 0.28rem 0.55rem;
+  text-align: center;
+  background: color-mix(in srgb, var(--primary) 8%, transparent);
+}
+
+.chart-tip-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.28rem 0.55rem 0.32rem;
+}
+
+.chart-tip-row i {
+  width: 0.55rem;
+  height: 0.55rem;
+  flex: none;
+  transform: translateY(1px);
+}
+
+.chart-tip-row span {
+  color: var(--secondary);
+}
+
+.chart-tip-row b {
+  margin-left: auto;
+  font-weight: 650;
+  padding-left: 0.6rem;
+}

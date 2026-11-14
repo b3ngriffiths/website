@@ -1,0 +1,24 @@
+{
+  "title": "Savings",
+  "type": "table",
+  "columns": [
+    "",
+    "Amount (kWh)",
+    "Rate (pence)",
+    "Savings"
+  ],
+  "rows": [
+    [
+      "Self-Consumed",
+      "2047",
+      "32.14",
+      "\u00a3657.91"
+    ],
+    [
+      "Exported",
+      "841",
+      "4.1p",
+      "\u00a334.48"
+    ]
+  ]
+}

@@ -25,7 +25,8 @@ I thought it might be interesting to explore this and other datasets to consolid
 
 ### Electricity at home
 
-<iframe loading="lazy" title="Energy Data (2023)" aria-label="Split Bars" id="datawrapper-chart-R3dwo" src="https://datawrapper.dwcdn.net/R3dwo/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="366" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "energy-2023" >}}
+
 
 ### [Saving Sessions](https://octopus.energy/saving-sessions/): 30.07 kWh saved
 
@@ -35,7 +36,8 @@ Across all Octopus Energy customers we saved 711,821 kWh, equivalent to boiling 
 
 ### Kitchen Appliances: 1510.364 kWh
 
-<iframe loading="lazy" title="Kitchen Appliances (2023)" aria-label="Stacked Bars" id="datawrapper-chart-EfHfi" src="https://datawrapper.dwcdn.net/EfHfi/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="347" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "kitchen-2023" >}}
+
 
 ### Self-Sufficient: 44.2%
 
@@ -46,19 +48,23 @@ Across all Octopus Energy customers we saved 711,821 kWh, equivalent to boiling 
 
 ### Steps: 2,749,658
 
-<iframe loading="lazy" title="Steps (2023)" aria-label="Column Chart" id="datawrapper-chart-Ka4rV" src="https://datawrapper.dwcdn.net/Ka4rV/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="427" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "steps-2023" >}}
+
 
 ### Exercise Distance: 675 km
 
-<iframe loading="lazy" title="Exercise Distance" aria-label="Stacked Bars" id="datawrapper-chart-FFOwh" src="https://datawrapper.dwcdn.net/FFOwh/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "distance-2023" >}}
+
 
 ### Average Daily Exercise: 37 minutes
 
-<iframe loading="lazy" title="Average Daily Exercise (minutes)" aria-label="Column Chart" id="datawrapper-chart-17t0A" src="https://datawrapper.dwcdn.net/17t0A/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "minutes-2023" >}}
+
 
 ### Body Weight: Increasing (bad)
 
-<iframe loading="lazy" title="Body Weight" aria-label="Line chart" id="datawrapper-chart-veeHp" src="https://datawrapper.dwcdn.net/veeHp/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "weight-2023" >}}
+
 
 ### Park Run
 
@@ -93,7 +99,8 @@ And only 8 meal deals, remember it being much higher in 2022 so that's progress.
 
 ### Distance Travelled: 9,841 miles
 
-<iframe loading="lazy" title="Distance Travelled" aria-label="Stacked Bars" id="datawrapper-chart-QYDiL" src="https://datawrapper.dwcdn.net/QYDiL/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "travel-2023" >}}
+
 
 ### Outings
 
@@ -118,28 +125,27 @@ Lots of data available here, but only going to share insights I found worrying/s
 
 ### Random Spending Insights
 
-<iframe loading="lazy" title="Random spending insights" aria-label="Column Chart" id="datawrapper-chart-vxzpm" src="https://datawrapper.dwcdn.net/vxzpm/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="376" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "spending-2023" >}}
+
 
 ### Cashback
 
 - <a href="https://www.topcashback.co.uk/ref/bengriffiths" rel="sponsored noopener noreferrer">TopCashback</a>: £147.71
 - <a href="https://americanexpress.com/en-gb/referral/bENJAGUe55?XLINK=MYCP" rel="sponsored noopener noreferrer">Amex</a>: £282.32
 
-### Seed Investments
-
-<iframe loading="lazy" title="Seed Investments" aria-label="Donut Chart" id="datawrapper-chart-b4hQT" src="https://datawrapper.dwcdn.net/b4hQT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="493" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
-
 ## Work
 
 ### Slack
 
-<iframe loading="lazy" title="Slack" aria-label="Split Bars" id="datawrapper-chart-PUJoR" src="https://datawrapper.dwcdn.net/PUJoR/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="336" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "slack-2023" >}}
+
 
 ### GitHub: 1,875 contributions
 
 ![GitHub contribution graph for 2023, 1,875 contributions](2023-github.png#center)
 
-<iframe loading="lazy" title="GitHub Activity Overview" aria-label="Donut Chart" id="datawrapper-chart-sCzIy" src="https://datawrapper.dwcdn.net/sCzIy/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="533" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "github-2023" >}}
+
 
 ### Email: 989 sent
 

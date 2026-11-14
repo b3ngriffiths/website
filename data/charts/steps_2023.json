@@ -1,0 +1,88 @@
+{
+  "title": "Steps (2023)",
+  "type": "columns",
+  "format": "int",
+  "showKey": false,
+  "zero": true,
+  "series": [
+    {
+      "name": "Steps",
+      "color": "#18a1cd",
+      "colorDark": "#4cb8e0"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        241180
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        223300
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        228284
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        244770
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        238359
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        237060
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        282379
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        222239
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        209310
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        183055
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        203130
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        236592
+      ]
+    }
+  ]
+}

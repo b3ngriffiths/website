@@ -1,0 +1,26 @@
+{
+  "title": "Cost Analysis",
+  "type": "table",
+  "columns": [
+    "",
+    "Energy (kWh)",
+    "Cost"
+  ],
+  "rows": [
+    [
+      "Import",
+      "542.79",
+      "\u00a340.71"
+    ],
+    [
+      "Export",
+      "258.37",
+      "\u00a338.76"
+    ],
+    [
+      "Net",
+      "284.42",
+      "\u00a31.95"
+    ]
+  ]
+}

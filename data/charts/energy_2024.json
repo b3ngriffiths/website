@@ -1,0 +1,137 @@
+{
+  "title": "Energy Data (2024)",
+  "type": "split",
+  "format": "int",
+  "independent": false,
+  "showKey": true,
+  "series": [
+    {
+      "name": "Solar Generated (kWh)",
+      "color": "#32e9b5"
+    },
+    {
+      "name": "Wind Generated (kWh)",
+      "color": "#1d81a2",
+      "colorDark": "#6ec4ea"
+    },
+    {
+      "name": "Import from Grid (kWh)",
+      "color": "#00b07d"
+    },
+    {
+      "name": "Export to Grid (kWh)",
+      "color": "#0a8f72",
+      "colorDark": "#3dbea4"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        48,
+        0,
+        1477.5,
+        7.1
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        102,
+        0,
+        1138.7,
+        31.6
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        191,
+        0,
+        1050.2,
+        126.4
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        272,
+        0,
+        912,
+        171.2
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        342,
+        0,
+        697.8,
+        338.3
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        430,
+        239.1,
+        684.4,
+        425.1
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        352,
+        155.9,
+        819.1,
+        354.8
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        359,
+        338,
+        806,
+        330.5
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        224,
+        250.7,
+        849.7,
+        164
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        184,
+        340.8,
+        1215.4,
+        146.7
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        67,
+        250.1,
+        1679.8,
+        15.2
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        29,
+        495.4,
+        1527.7,
+        7.4
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "title": "Daily Grid Import vs Export",
+  "type": "split",
+  "format": "trim",
+  "independent": false,
+  "showKey": true,
+  "series": [
+    {
+      "name": "Import",
+      "color": "#00b07d"
+    },
+    {
+      "name": "Export",
+      "color": "#0a8f72",
+      "colorDark": "#3dbea4"
+    }
+  ],
+  "rows": [
+    {
+      "label": "07-Sep",
+      "values": [
+        5.74,
+        5.0
+      ]
+    },
+    {
+      "label": "08-Sep",
+      "values": [
+        46.88,
+        15.21
+      ]
+    },
+    {
+      "label": "09-Sep",
+      "values": [
+        17.5,
+        10.64
+      ]
+    },
+    {
+      "label": "10-Sep",
+      "values": [
+        11.44,
+        12.4
+      ]
+    },
+    {
+      "label": "11-Sep",
+      "values": [
+        18.04,
+        10.39
+      ]
+    },
+    {
+      "label": "12-Sep",
+      "values": [
+        18.37,
+        10.53
+      ]
+    },
+    {
+      "label": "13-Sep",
+      "values": [
+        18.63,
+        20.91
+      ]
+    },
+    {
+      "label": "14-Sep",
+      "values": [
+        21.56,
+        13.91
+      ]
+    },
+    {
+      "label": "15-Sep",
+      "values": [
+        47.88,
+        5.96
+      ]
+    },
+    {
+      "label": "16-Sep",
+      "values": [
+        10.64,
+        8.64
+      ]
+    },
+    {
+      "label": "17-Sep",
+      "values": [
+        16.98,
+        10.29
+      ]
+    },
+    {
+      "label": "18-Sep",
+      "values": [
+        16.5,
+        11.34
+      ]
+    },
+    {
+      "label": "19-Sep",
+      "values": [
+        17.52,
+        2.98
+      ]
+    },
+    {
+      "label": "20-Sep",
+      "values": [
+        10.55,
+        5.42
+      ]
+    },
+    {
+      "label": "21-Sep",
+      "values": [
+        10.87,
+        19.62
+      ]
+    },
+    {
+      "label": "22-Sep",
+      "values": [
+        16.9,
+        13.53
+      ]
+    },
+    {
+      "label": "23-Sep",
+      "values": [
+        16.46,
+        10.84
+      ]
+    },
+    {
+      "label": "24-Sep",
+      "values": [
+        15.95,
+        2.67
+      ]
+    },
+    {
+      "label": "25-Sep",
+      "values": [
+        16.92,
+        12.18
+      ]
+    },
+    {
+      "label": "26-Sep",
+      "values": [
+        12.0,
+        7.48
+      ]
+    },
+    {
+      "label": "27-Sep",
+      "values": [
+        10.65,
+        3.79
+      ]
+    },
+    {
+      "label": "28-Sep",
+      "values": [
+        16.21,
+        3.6
+      ]
+    },
+    {
+      "label": "29-Sep",
+      "values": [
+        12.17,
+        13.43
+      ]
+    },
+    {
+      "label": "30-Sep",
+      "values": [
+        16.79,
+        3.18
+      ]
+    },
+    {
+      "label": "01-Oct",
+      "values": [
+        51.53,
+        5.04
+      ]
+    },
+    {
+      "label": "02-Oct",
+      "values": [
+        17.62,
+        2.17
+      ]
+    },
+    {
+      "label": "03-Oct",
+      "values": [
+        10.61,
+        10.9
+      ]
+    },
+    {
+      "label": "04-Oct",
+      "values": [
+        13.82,
+        3.0
+      ]
+    },
+    {
+      "label": "05-Oct",
+      "values": [
+        15.89,
+        1.69
+      ]
+    },
+    {
+      "label": "06-Oct",
+      "values": [
+        10.14,
+        1.61
+      ]
+    }
+  ]
+}

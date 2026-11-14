@@ -1,0 +1,104 @@
+{
+  "title": "Monthly Solar Generation",
+  "type": "stacked",
+  "format": "int",
+  "showKey": true,
+  "zero": true,
+  "series": [
+    {
+      "name": "Consumed (kWh)",
+      "color": "#00b07d"
+    },
+    {
+      "name": "Export (kWh)",
+      "color": "#0a8f72",
+      "colorDark": "#3dbea4"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Sep-22",
+      "values": [
+        171,
+        179
+      ]
+    },
+    {
+      "label": "Oct-22",
+      "values": [
+        87,
+        88
+      ]
+    },
+    {
+      "label": "Nov-22",
+      "values": [
+        24,
+        27
+      ]
+    },
+    {
+      "label": "Dec-22",
+      "values": [
+        18,
+        16
+      ]
+    },
+    {
+      "label": "Jan-23",
+      "values": [
+        33,
+        36
+      ]
+    },
+    {
+      "label": "Feb-23",
+      "values": [
+        63,
+        55
+      ]
+    },
+    {
+      "label": "Mar-23",
+      "values": [
+        80,
+        122
+      ]
+    },
+    {
+      "label": "Apr-23",
+      "values": [
+        167,
+        169
+      ]
+    },
+    {
+      "label": "May-23",
+      "values": [
+        379,
+        43
+      ]
+    },
+    {
+      "label": "Jun-23",
+      "values": [
+        427,
+        32
+      ]
+    },
+    {
+      "label": "Jul-23",
+      "values": [
+        320,
+        42
+      ]
+    },
+    {
+      "label": "Aug-23",
+      "values": [
+        278,
+        32
+      ]
+    }
+  ]
+}

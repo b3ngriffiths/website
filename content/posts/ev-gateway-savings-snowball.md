@@ -24,7 +24,8 @@ Looking at the last year, powering the whole home, heating, hot water, and the 1
 
 *The standing charge alone is £223, something I can't control.*
 
-<iframe loading="lazy" title="2025 Annual Energy Cost Distribution" aria-label="Grouped column chart" id="datawrapper-chart-tBjzX" src="https://datawrapper.dwcdn.net/tBjzX/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+{{< chart "energy-cost-2025" >}}
+
 
 The EV forced me to understand electricity tariffs. Solar made me track generation vs. consumption. The battery taught me to shift usage to cheap overnight rates. Each upgrade didn't just save money, it gave me the knowledge to make the next decision confidently.
 

@@ -1,0 +1,120 @@
+{
+  "title": "Energy Data (2023)",
+  "type": "split",
+  "format": "trim",
+  "independent": true,
+  "showKey": true,
+  "series": [
+    {
+      "name": "Solar Generated (kWh)",
+      "color": "#32e9b5"
+    },
+    {
+      "name": "Import from Grid (kWh)",
+      "color": "#00b07d"
+    },
+    {
+      "name": "Export to Grid (kWh)",
+      "color": "#0a8f72",
+      "colorDark": "#3dbea4"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        69,
+        528,
+        35.76
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        118,
+        433.1,
+        54.59
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        202,
+        496.6,
+        122.2
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        336,
+        340.2,
+        168.5
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        422,
+        326.1,
+        42.95
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        459,
+        256.7,
+        32.12
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        362,
+        352.3,
+        42.05
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        310,
+        299,
+        32.39
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        263,
+        498,
+        246.3
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        129,
+        611.8,
+        139.2
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        71,
+        728.8,
+        67.41
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        30,
+        1421,
+        20.81
+      ]
+    }
+  ]
+}

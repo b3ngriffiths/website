@@ -1,0 +1,106 @@
+{
+  "title": "Average Daily Exercise (2025)",
+  "type": "bullet",
+  "format": "int",
+  "showKey": true,
+  "zero": true,
+  "yMin": 0,
+  "yMax": 60,
+  "series": [
+    {
+      "name": "2024",
+      "color": "#1d81a2",
+      "colorDark": "#6ec4ea"
+    },
+    {
+      "name": "2025",
+      "color": "#00dca6"
+    }
+  ],
+  "rows": [
+    {
+      "label": "January",
+      "values": [
+        33,
+        50
+      ]
+    },
+    {
+      "label": "February",
+      "values": [
+        25,
+        56
+      ]
+    },
+    {
+      "label": "March",
+      "values": [
+        35,
+        45
+      ]
+    },
+    {
+      "label": "April",
+      "values": [
+        37,
+        41
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        44,
+        51
+      ]
+    },
+    {
+      "label": "June",
+      "values": [
+        34,
+        47
+      ]
+    },
+    {
+      "label": "July",
+      "values": [
+        43,
+        40
+      ]
+    },
+    {
+      "label": "August",
+      "values": [
+        44,
+        43
+      ]
+    },
+    {
+      "label": "September",
+      "values": [
+        28,
+        37
+      ]
+    },
+    {
+      "label": "October",
+      "values": [
+        25,
+        48
+      ]
+    },
+    {
+      "label": "November",
+      "values": [
+        39,
+        41
+      ]
+    },
+    {
+      "label": "December",
+      "values": [
+        27,
+        48
+      ]
+    }
+  ]
+}

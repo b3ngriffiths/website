@@ -1,0 +1,105 @@
+{
+  "title": "Slack (2024)",
+  "type": "split",
+  "format": "int",
+  "independent": false,
+  "showKey": true,
+  "series": [
+    {
+      "name": "Messages Posted",
+      "color": "#e0a84a",
+      "colorDark": "#ffca76"
+    },
+    {
+      "name": "Reactions",
+      "color": "#fa8c00",
+      "colorDark": "#ff9d2e"
+    }
+  ],
+  "rows": [
+    {
+      "label": "Jan",
+      "values": [
+        2806,
+        850
+      ]
+    },
+    {
+      "label": "Feb",
+      "values": [
+        2222,
+        652
+      ]
+    },
+    {
+      "label": "Mar",
+      "values": [
+        1295,
+        379
+      ]
+    },
+    {
+      "label": "Apr",
+      "values": [
+        1457,
+        689
+      ]
+    },
+    {
+      "label": "May",
+      "values": [
+        1472,
+        567
+      ]
+    },
+    {
+      "label": "Jun",
+      "values": [
+        1487,
+        451
+      ]
+    },
+    {
+      "label": "Jul",
+      "values": [
+        2129,
+        649
+      ]
+    },
+    {
+      "label": "Aug",
+      "values": [
+        1159,
+        371
+      ]
+    },
+    {
+      "label": "Sep",
+      "values": [
+        1809,
+        675
+      ]
+    },
+    {
+      "label": "Oct",
+      "values": [
+        1787,
+        618
+      ]
+    },
+    {
+      "label": "Nov",
+      "values": [
+        1659,
+        581
+      ]
+    },
+    {
+      "label": "Dec",
+      "values": [
+        1442,
+        516
+      ]
+    }
+  ]
+}
